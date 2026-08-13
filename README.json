@@ -1,0 +1,3454 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Avalonia",
+          "description": "Avalonia source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T17:21:23Z",
+            "owner": "AvaloniaUI",
+            "repo": "Avalonia",
+            "stars": 31313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avalonia Dotnet Template",
+          "description": "Avalonia Templates for .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T15:59:46Z",
+            "owner": "AvaloniaUI",
+            "repo": "Avalonia.Templates",
+            "stars": 664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaVS",
+          "description": "Visual Studio Extension for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-03T06:40:45Z",
+            "owner": "AvaloniaUI",
+            "repo": "AvaloniaVS",
+            "stars": 518
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Samples and Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenUTAU",
+          "description": "A cross-platform singing synthesis platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-02T02:28:22Z",
+            "owner": "openutau",
+            "repo": "OpenUtau",
+            "stars": 4184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apollo Studio",
+          "description": "Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-20T20:19:13Z",
+            "owner": "mat1jaczyyy",
+            "repo": "apollo-studio",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "432hz Batch Converter",
+          "description": "Converts and re-encodes music to 432hz.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T08:31:55Z",
+            "owner": "mysteryx93",
+            "repo": "HanumanInstituteApps",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "432hz Player",
+          "description": "Plays music in 432hz.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T08:31:55Z",
+            "owner": "mysteryx93",
+            "repo": "HanumanInstituteApps",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Powerliminals Player",
+          "description": "Plays multiple audios simultaneously at varying speeds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T08:31:55Z",
+            "owner": "mysteryx93",
+            "repo": "HanumanInstituteApps",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amplitude Soundboard",
+          "description": "A sleek, cross-platform soundboard, available for Windows, Linux, and macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-03T00:47:02Z",
+            "owner": "dan0v",
+            "repo": "AmplitudeSoundboard",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xune",
+          "description": "A cross-platform resurrection of Zune Desktop Music player using AvaloniaUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-12T08:23:52Z",
+            "owner": "VitalElement",
+            "repo": "Xune",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPhonos",
+          "description": "A cross-platform Sonos app built with Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T15:40:35Z",
+            "owner": "amp64",
+            "repo": "openphonos",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XmlyDownloader",
+          "description": "Free audio downloader for ximalaya.com based on Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-10-24T05:35:45Z",
+            "owner": "zxyao145",
+            "repo": "XmlyDownloader",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrumBuddy",
+          "description": "A cross-platform app for drummers, allowing them to record, manage, and learn new digital sheets, with real-time feedback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-17T18:01:24Z",
+            "owner": "sz-balage",
+            "repo": "DrumBuddy",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Audio and Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Egram",
+          "description": "Egram is an unofficial cross-platform Telegram client written in C#, .NET Core, ReactiveUI, and Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-05-01T12:44:44Z",
+            "owner": "egramtel",
+            "repo": "egram.tel",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laney",
+          "description": "An unofficial cross-platform client for VK Messenger written in C#, .NET and Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-21T18:03:19Z",
+            "owner": "Elorucov",
+            "repo": "Laney-Avalonia",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkillChat",
+          "description": "A cross-platform open-source messenger with real-time chat, sending files, receiving notifications, and the ability to deploy on a private server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-22T13:04:27Z",
+            "owner": "SkillChat",
+            "repo": "SkillChat",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loon",
+          "description": "Loon is a cross-platform desktop twitter client. It's minimal design mimics gadget style applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-11-11T17:21:49Z",
+            "owner": "mike-ward",
+            "repo": "Loon",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GroupMe Desktop Client",
+          "description": "GroupMe Desktop Client Avalonia is an open-source, cross-platform, modular client for GroupMe messaging.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-08-27T03:54:38Z",
+            "owner": "alexdillon",
+            "repo": "GroupMeClientAvalonia",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Communication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ModularDoc",
+          "description": "Modular documentation generator for .NET libraries. Currently supporting Markdown only for GitHub, GitLab, and Bitbucket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-10T13:57:12Z",
+            "owner": "hailstorm75",
+            "repo": "ModularDoc",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MangaReader",
+          "description": "Help to download updates from online manga readers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-18T07:07:59Z",
+            "owner": "MonkAlex",
+            "repo": "MangaReader",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AHpx.RG",
+          "description": "Cross-platform readme generator based on xml summary documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-21T15:08:07Z",
+            "owner": "ahpxex",
+            "repo": "AHpx.RG",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Documents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Camelotia",
+          "description": "Cross-platform demo file manager for cloud storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T15:48:43Z",
+            "owner": "reactiveui",
+            "repo": "Camelotia",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jaya",
+          "description": "Cross-platform file explorer application for Windows, Linux, and macOS operating systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-26T00:51:11Z",
+            "owner": "waliarubal",
+            "repo": "Jaya",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Purple Explorer",
+          "description": "A cross-platform desktop application to manage messages in Azure service bus and queue.",
+          "children": []
+        }
+      ],
+      "title": "Data Transfer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WalletWasabi",
+          "description": "Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and macOS. Built-in Tor, CoinJoin, and coin control features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T13:24:41Z",
+            "owner": "WalletWasabi",
+            "repo": "WalletWasabi",
+            "stars": 2600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nethereum UI",
+          "description": "Simple wallet cross-platform using Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-18T09:25:51Z",
+            "owner": "Nethereum",
+            "repo": "Nethereum.UI.Desktop",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monetria",
+          "description": "A simple personal finance management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-15T01:23:00Z",
+            "owner": "joaovitored",
+            "repo": "Monetria",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Finance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Steam Superheater",
+          "description": "Fixes downloader for Steam games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-13T09:00:57Z",
+            "owner": "fgsfds",
+            "repo": "Steam-Superheater",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BuildLauncher",
+          "description": "Launcher and mods downloader for Build Engine games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T19:21:40Z",
+            "owner": "fgsfds",
+            "repo": "BuildLauncher",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polymerium",
+          "description": "A Minecraft launcher that thinks differently about game management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:26:02Z",
+            "owner": "d3ara1n",
+            "repo": "Polymerium",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MzingaViewer",
+          "description": "Cross-platform UI for playing the board game Hive against compatible AIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-21T00:22:15Z",
+            "owner": "jonthysell",
+            "repo": "Mzinga",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VRCFaceTracking.Avalonia",
+          "description": "A cross-platform Avalonia re-make of VRCFaceTracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-17T22:14:49Z",
+            "owner": "dfgHiatus",
+            "repo": "VRCFaceTracking.Avalonia",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoadCaptain",
+          "description": "Build and run custom routes in Zwift the virtual cycling world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-03T13:29:58Z",
+            "owner": "sandermvanvliet",
+            "repo": "RoadCaptain",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColorMC",
+          "description": "A Minecraft Launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T05:44:35Z",
+            "owner": "Coloryr",
+            "repo": "ColorMC",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaNES",
+          "description": "A NES emulator built with Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-05T07:54:37Z",
+            "owner": "wky214269273",
+            "repo": "AvaloniaNES",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IronVault",
+          "description": "Retro tank-battle game built with Avalonia UI & Pipboy.Avalonia — 100 hand-crafted stages, pure vector graphics, playable in the browser via WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-17T10:55:35Z",
+            "owner": "NeverMorewd",
+            "repo": "IronVault",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spune",
+          "description": "A story-based gaming engine built with Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-30T10:28:26Z",
+            "owner": "NHLStenden",
+            "repo": "Spune",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Gaming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PicView",
+          "description": "Fast, free and customizable image viewer for Windows 10 and 11.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T22:59:24Z",
+            "owner": "Ruben2776",
+            "repo": "PicView",
+            "stars": 3440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beutl",
+          "description": "Cross-platform video editing (compositing) software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T17:51:02Z",
+            "owner": "b-editor",
+            "repo": "beutl",
+            "stars": 1225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Core2D",
+          "description": "A multi-platform data driven 2D diagram editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T21:41:00Z",
+            "owner": "wieslawsoltes",
+            "repo": "Core2D",
+            "stars": 1178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelViewer",
+          "description": "Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T10:38:29Z",
+            "owner": "carina-studio",
+            "repo": "PixelViewer",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TreeViewer",
+          "description": "Cross-platform software to draw phylogenetic trees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-03T18:01:12Z",
+            "owner": "arklumpus",
+            "repo": "TreeViewer",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lacmus",
+          "description": "The program for searching through photos from the air of lost people in the forest using Retina Net neural network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-29T22:10:30Z",
+            "owner": "lacmus-foundation",
+            "repo": "lacmus-app",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xamlade",
+          "description": "Visual Avalonia UI XAML editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-18T03:57:48Z",
+            "owner": "ComradeAkei",
+            "repo": "Xamlade",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CsGrafeq",
+          "description": "A cross-platform geometry sketchpad and implicit function plotting tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-18T14:35:57Z",
+            "owner": "jyswjjgdwtdtj",
+            "repo": "CsGrafeq",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpiroNet",
+          "description": "The .NET C# port of libspiro - conversion between spiro control points and bezier's.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-08-20T20:07:31Z",
+            "owner": "wieslawsoltes",
+            "repo": "SpiroNet",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Everywhere",
+          "description": "Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T17:05:15Z",
+            "owner": "Sylinko",
+            "repo": "Everywhere",
+            "stars": 6227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SnapX",
+          "description": "A cross-platform productivity tool that can upload images, video, text, and files in general.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T23:08:58Z",
+            "owner": "SnapXL",
+            "repo": "SnapX",
+            "stars": 1003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Team Sketch",
+          "description": "A cross-platform desktop application for collaborative drawing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-24T21:10:49Z",
+            "owner": "davidtimovski",
+            "repo": "team-sketch",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sapphire Notes",
+          "description": "A cross-platform desktop application for managing notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-05-10T17:23:08Z",
+            "owner": "davidtimovski",
+            "repo": "sapphire-notes",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Betakads",
+          "description": "An AI-powered flashcards generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-01T09:49:28Z",
+            "owner": "ZadokJoshua",
+            "repo": "betakads-avalonia-app",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTimeSlot",
+          "description": "A cross-platform and freestyle time management app for you to focus on completing tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-23T08:47:03Z",
+            "owner": "hoyho",
+            "repo": "iTimeSlot",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwincatToolbox",
+          "description": "A toolbox for developing TwinCAT3 programs which helps user to log and plot the specified symbols with predefined frequency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-04T00:26:57Z",
+            "owner": "randolfly",
+            "repo": "TwincatToolbox",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SourceGit",
+          "description": "A cross-platform Git desktop client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T06:34:20Z",
+            "owner": "sourcegit-scm",
+            "repo": "sourcegit",
+            "stars": 5728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoslynPad",
+          "description": "A cross-platform C# editor based on Roslyn and AvalonEdit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T05:42:27Z",
+            "owner": "roslynpad",
+            "repo": "roslynpad",
+            "stars": 2804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaILSpy",
+          "description": "Avalonia-based .NET Decompiler (port of ILSpy).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2025-07-21T05:34:27Z",
+            "owner": "icsharpcode",
+            "repo": "AvaloniaILSpy",
+            "stars": 1811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvalonStudio",
+          "description": "Cross-platform IDE and Shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-23T11:35:35Z",
+            "owner": "VitalElement",
+            "repo": "AvalonStudio",
+            "stars": 1720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UVtools",
+          "description": "A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T03:53:55Z",
+            "owner": "sn4k3",
+            "repo": "UVtools",
+            "stars": 1602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FVim",
+          "description": "Cross-platform Neovim front-end UI, built with F# + Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-10-17T19:35:26Z",
+            "owner": "yatli",
+            "repo": "fvim",
+            "stars": 1408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerShell GraphicalTools",
+          "description": "A module that mixes PowerShell and GUIs!",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-06-24T00:10:45Z",
+            "owner": "PowerShell",
+            "repo": "ConsoleGuiTools",
+            "stars": 955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parquet Floor",
+          "description": "Floor is a reference implementation of the desktop application to view Apache Parquet files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T12:50:05Z",
+            "owner": "aloneguid",
+            "repo": "parquet-dotnet",
+            "stars": 902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pororoca",
+          "description": "A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-03T17:38:47Z",
+            "owner": "alexandrehtrb",
+            "repo": "Pororoca",
+            "stars": 662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ULogViewer",
+          "description": "Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:38:17Z",
+            "owner": "carina-studio",
+            "repo": "ULogViewer",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asv.Drones",
+          "description": "Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads, and RTK base stations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T14:13:15Z",
+            "owner": "asv-soft",
+            "repo": "asv-drones",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radish",
+          "description": "Cross-platform desktop client designed exclusively for Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-22T08:32:50Z",
+            "owner": "x2bool",
+            "repo": "radish",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlitzSearch",
+          "description": "Windows, Find-in-Files Tool, an improved Find-in-files Experience for any IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-23T21:29:01Z",
+            "owner": "Natestah",
+            "repo": "BlitzSearch",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git-It-GUI",
+          "description": "A Git GUI client designed to be simple with game studio collaboration in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-14T00:17:41Z",
+            "owner": "reignstudios",
+            "repo": "Git-It-GUI",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatoEditor",
+          "description": "A beautiful markdown editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-30T14:30:20Z",
+            "owner": "CoolCoolTomato",
+            "repo": "MatoEditor",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syndiesis",
+          "description": "A syntax (and more) visualizer for C# code powered by Roslyn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-07T11:22:04Z",
+            "owner": "Rekkonnect",
+            "repo": "Syndiesis",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DAGE",
+          "description": "DAGE is an Desktop Antlr grammar editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-12-07T19:33:40Z",
+            "owner": "KvanTTT",
+            "repo": "DAGE",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Formatter",
+          "description": "A cross-platform desktop application for formatting JSON strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-18T19:39:58Z",
+            "owner": "davidtimovski",
+            "repo": "json-formatter",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kangaroo IP Scanner",
+          "description": "Cross-platform IP scanner application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-05T23:14:17Z",
+            "owner": "ewilliams0305",
+            "repo": "kangaroo",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern VICE PDB Monitor",
+          "description": "Provides a cross-platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-27T11:07:33Z",
+            "owner": "MihaMarkic",
+            "repo": "modern-vice-pdb-monitor",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Software Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shelly ALPM",
+          "description": "A Modern Package Management system for Arch Linux Distros.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-08-13T05:42:00Z",
+            "owner": "Seafoam-Labs",
+            "repo": "Shelly-ALPM",
+            "stars": 1003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YoutubeDownloader",
+          "description": "Open-source YouTube video downloader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-13T23:38:51Z",
+            "owner": "legend2ks",
+            "repo": "YoutubeDownloader",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeUI",
+          "description": "Kubernetes User Interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T23:05:51Z",
+            "owner": "IvanJosipovic",
+            "repo": "KubeUI",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xDelta3 Cross GUI",
+          "description": "A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-20T17:23:17Z",
+            "owner": "dan0v",
+            "repo": "xdelta3-cross-gui",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let It Snow!",
+          "description": ".NET Core Avalonia UI Snow Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-15T20:24:04Z",
+            "owner": "ptupitsyn",
+            "repo": "let-it-snow",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Komiic",
+          "description": "A cross-platform client for Komiic.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-22T14:11:26Z",
+            "owner": "afunc233",
+            "repo": "Komiic",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NP.Avalonia.Demos",
+          "description": "Demos of Avalonia's features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-21T21:12:50Z",
+            "owner": "npolyak",
+            "repo": "NP.Avalonia.Demos",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unlimotion",
+          "description": "A cross-platform open-source task scheduler with unlimited nesting level.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T22:36:33Z",
+            "owner": "Kibnet",
+            "repo": "Unlimotion",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSSH-GUI",
+          "description": "A cross-platform SSH GUI application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-15T15:45:08Z",
+            "owner": "frequency403",
+            "repo": "OpenSSH-GUI",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prism Outlookish",
+          "description": "Learn Prism.Avalonia with this boilerplate for Regions, Modules, Dialog Service, Notification Service, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-31T15:18:14Z",
+            "owner": "DamianSuess",
+            "repo": "Learn.PrismAvaloniaOutlookish",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lemon.ShadowFiend",
+          "description": "A Windows Rdp client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-05T08:23:23Z",
+            "owner": "NeverMorewd",
+            "repo": "Lemon.ShadowFiend",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube Video Uploader",
+          "description": "Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-03-13T09:35:35Z",
+            "owner": "curiousvlxd",
+            "repo": "YouTube-Video-Uploader-Avalonia",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Avalonia.Samples",
+          "description": "A collection of minimal samples and tutorials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T03:05:42Z",
+            "owner": "AvaloniaUI",
+            "repo": "Avalonia.Samples",
+            "stars": 1152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build Modern Cross-Platform Apps with .NET",
+          "description": "Covers all areas of development: Avalonia, Dependency Injection, MVVM, Unit Testing, Reactive, and Deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-09T16:29:10Z",
+            "owner": "mysteryx93",
+            "repo": "Modern.Net-Tutorial",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS Sparkle Updates",
+          "description": "Example on using the popular Sparkle library in Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2021-03-03T13:13:24Z",
+            "owner": "Deadpikle",
+            "repo": "macOS.SparkleUpdater.Avalonia",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperJMN - IoT LedBar",
+          "description": "AvaloniaUI IoT LED Bar sample.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-01-02T15:10:36Z",
+            "owner": "SuperJMN",
+            "repo": "Avalonia-IoT-LedBar",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries & Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Avalonia.Xaml.Behaviors",
+          "description": "Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-11-01T21:03:47Z",
+            "owner": "AvaloniaUI",
+            "repo": "Avalonia.Xaml.Behaviors",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsyncImageLoader.Avalonia",
+          "description": "Provides asynchronous bitmap loading from web for Avalonia Image control and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T23:00:20Z",
+            "owner": "AvaloniaUtils",
+            "repo": "AsyncImageLoader.Avalonia",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nlnet.Avalonia.Css",
+          "description": "A library for Avalonia to write styles like CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-23T15:07:59Z",
+            "owner": "liwuqingxin",
+            "repo": "Avalonia.Css",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaInside.Shell",
+          "description": "Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, and Side Menu.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-04-08T11:13:47Z",
+            "owner": "AvaloniaInside",
+            "repo": "Shell",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lemon.Hosting.Avaloniaui",
+          "description": "A lightweight module navigation framework built on top of the Microsoft Dependency Injection (MSDI) for AvaloniaUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-04T20:19:09Z",
+            "owner": "NeverMorewd",
+            "repo": "Hosting.Avaloniaui",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lemon.ModuleNavigation",
+          "description": ".NET Generic Host support for Avaloniaui app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-05-09T17:04:10Z",
+            "owner": "NeverMorewd",
+            "repo": "Lemon.ModuleNavigation",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sortable.Avalonia",
+          "description": "Animated drag-drop and sort-swap behavior attachments for Avalonia inspired by SortableJS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-21T12:05:41Z",
+            "owner": "russkyc",
+            "repo": "sortable-avalonia",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShowMeTheXaml.Avalonia",
+          "description": "A control that makes it easier to display the corresponding XAML at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-07T20:14:14Z",
+            "owner": "AvaloniaUtils",
+            "repo": "ShowMeTheXaml.Avalonia",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verify.Avalonia",
+          "description": "Extends Verify to allow verification of Avalonia UIs using headless testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T12:13:32Z",
+            "owner": "VerifyTests",
+            "repo": "Verify.Avalonia",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsyncNavigation",
+          "description": "A lightweight asynchronous navigation framework based on Microsoft.Extensions.DependencyInjection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T18:54:46Z",
+            "owner": "NeverMorewd",
+            "repo": "AsyncNavigation",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peachpie.Avalonia",
+          "description": "Library that allows you to create cross-platform applications in PHP in the .NET environment using Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-01T18:02:12Z",
+            "owner": "FibonacciFox",
+            "repo": "Peachpie.Avalonia",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jc.AdMob.Avalonia",
+          "description": "Library to bring AdMob advertisements to Avalonia mobile projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-16T05:53:46Z",
+            "owner": "jcsawyer",
+            "repo": "Jc.AdMob.Avalonia",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avae.Windows.Essentials",
+          "description": "Port of Microsoft.Maui.Essentials for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-27T08:06:17Z",
+            "owner": "cedric56",
+            "repo": "Avae.Windows.Essentials",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avae.Linux.Essentials",
+          "description": "Port of Microsoft.Maui.Essentials for Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-24T12:38:35Z",
+            "owner": "cedric56",
+            "repo": "Avae.Linux.Essentials",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avae.macOS.Essentials",
+          "description": "Port of Microsoft.Maui.Essentials for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-27T09:06:39Z",
+            "owner": "cedric56",
+            "repo": "Avae.macOS.Essentials",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nukepayload2.SourceGenerators.AvaloniaUI",
+          "description": "Visual Basic source generator for typed Avalonia References.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-01T15:02:21Z",
+            "owner": "Nukepayload2",
+            "repo": "Nukepayload2.SourceGenerators.AvaloniaUI",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avae.Browser.Essentials",
+          "description": "Port of Microsoft.Maui.Essentials for browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-12T08:46:11Z",
+            "owner": "cedric56",
+            "repo": "Avae.Browser.Essentials",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Generic"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SukiUI",
+          "description": "Avalonia UI Library with a flat design approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T00:48:23Z",
+            "owner": "kikipoulet",
+            "repo": "SukiUI",
+            "stars": 2645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semi.Avalonia",
+          "description": "Avalonia Theme inspired by Semi Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T08:10:42Z",
+            "owner": "irihitech",
+            "repo": "Semi.Avalonia",
+            "stars": 1925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Design",
+          "description": "Collection of styles to help you customize your Avalonia application theme with Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T19:19:25Z",
+            "owner": "AvaloniaCommunity",
+            "repo": "Material.Avalonia",
+            "stars": 1156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPFDarkTheme",
+          "description": "A configurable compact soft dark theme for standard Avalonia and WPF controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-25T21:09:18Z",
+            "owner": "AngryCarrot789",
+            "repo": "WPFDarkTheme",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShadUI",
+          "description": "A modern, beautiful, and intuitive UI library inspired by shadcn/ui and Suki UI Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-19T08:03:51Z",
+            "owner": "accntech",
+            "repo": "shad-ui",
+            "stars": 530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classic.Avalonia",
+          "description": "Classic Windows 9x-like theme and controls for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-12T21:31:18Z",
+            "owner": "BAndysc",
+            "repo": "Classic.Avalonia",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Icons.Avalonia",
+          "description": "A library to easily display icons in an Avalonia App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-24T23:30:22Z",
+            "owner": "Projektanker",
+            "repo": "Icons.Avalonia",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neumorphism.Avalonia",
+          "description": "Easy to use and customizable Neumorphism Design implementation for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-11T09:19:22Z",
+            "owner": "flarive",
+            "repo": "Neumorphism.Avalonia",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CherylUI",
+          "description": "Avalonia UI Library for Mobile Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-23T09:09:01Z",
+            "owner": "kikipoulet",
+            "repo": "CherylUI",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material.Icons.Avalonia",
+          "description": "Lightweight library for easily display 6000+ icons from MaterialDesignIcons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-13T17:21:07Z",
+            "owner": "SKProCH",
+            "repo": "Material.Icons",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AntDesign.Avalonia",
+          "description": "Avalonia Theme inspired by Ant Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-06T10:06:39Z",
+            "owner": "MicroSugarDeveloperOrg",
+            "repo": "AntDesign.Avalonia",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aero Theme",
+          "description": "Windows Aero Theme for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-26T14:36:00Z",
+            "owner": "Splitwirez",
+            "repo": "aero-theme-for-avalonia",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IconPacks.Avalonia",
+          "description": "Really awesome icon packs for Avalonia in one library. The IconPacks packages contains controls, markup extensions and converters to use these awesome icons with your Avalonia applications in a simple way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-25T13:12:07Z",
+            "owner": "MahApps",
+            "repo": "IconPacks.Avalonia",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeroIcons.Avalonia",
+          "description": "Hand crafted icons from Heroicons made available to AvaloniaUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-19T15:24:37Z",
+            "owner": "russkyc",
+            "repo": "heroicons-avalonia",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LucideAvaloniaUI",
+          "description": "A library for AvaloniaUI that integrates Lucide icons into your Avalonia applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T18:29:51Z",
+            "owner": "MarwanFr",
+            "repo": "LucideAvaloniaUI",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Huskui.Avalonia",
+          "description": "A modern, elegant UI component library inspired by ParkUI and using the Radix Colors palette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T03:35:48Z",
+            "owner": "d3ara1n",
+            "repo": "Huskui.Avalonia",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devolutions Avalonia-Extensions",
+          "description": "Avalonia Themes for a MacOS or DevExpress look.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T18:03:45Z",
+            "owner": "Devolutions",
+            "repo": "avalonia-extensions",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Romzetron.Avalonia",
+          "description": "Avalonia Theme that supports light/dark modes and a variety of color themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-05T15:12:52Z",
+            "owner": "Romzetron",
+            "repo": "Romzetron.Avalonia",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lucide.Avalonia",
+          "description": "Implementation of the Lucide icon library for AvaloniaUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T04:57:16Z",
+            "owner": "dme-compunet",
+            "repo": "Lucide.Avalonia",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipboy.Avalonia",
+          "description": "A Fallout 4 Pip-Boy inspired theme library for Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-05T09:19:36Z",
+            "owner": "NeverMorewd",
+            "repo": "Pipboy.Avalonia",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magic.Icon",
+          "description": "An icon class generator for iconfont in avalonia and wpf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-09T07:40:09Z",
+            "owner": "liwuqingxin",
+            "repo": "Magic.Icon",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Palette Designer",
+          "description": "Interactive tool to generate beautiful color palettes, exporting to Adobe ASE, CSS, XAML, AXAML and JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T18:16:44Z",
+            "owner": "LaurentInSeattle",
+            "repo": "PaletteDesigner",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Theme & Icons"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FuncUI",
+          "description": "Develop cross-platform MVU GUI Applications using F# and Avalonia (with a view DSL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-07-28T20:12:23Z",
+            "owner": "fsprojects",
+            "repo": "Avalonia.FuncUI",
+            "stars": 1255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markup Declarative",
+          "description": "Provides helpers for declarative UI and MVU Pattern in C# for Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T16:56:10Z",
+            "owner": "AvaloniaCommunity",
+            "repo": "Avalonia.Markup.Declarative",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prism",
+          "description": "Prism framework support for Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-10T12:42:39Z",
+            "owner": "AvaloniaCommunity",
+            "repo": "Prism.Avalonia",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Epoxy",
+          "description": "Easy, simplicity, and minimalism multi-platform MVVM library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-10T04:32:37Z",
+            "owner": "kekyo",
+            "repo": "Epoxy",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HanumanInstitute.MvvmDialogs.Avalonia",
+          "description": "Simplifies opening dialogs from a view model with MVVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-24T08:59:09Z",
+            "owner": "mysteryx93",
+            "repo": "HanumanInstitute.MvvmDialogs",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactiveMvvm",
+          "description": "Cross-platform ReactiveUI & PropertyChanged.Fody demo app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T17:43:13Z",
+            "owner": "reactiveui",
+            "repo": "ReactiveMvvm",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactiveHistory",
+          "description": "Reactive undo/redo framework for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-08-21T11:13:13Z",
+            "owner": "wieslawsoltes",
+            "repo": "ReactiveHistory",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazonia",
+          "description": "Blazor Bindings - Build native Avalonia apps with Blazor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-27T03:51:31Z",
+            "owner": "Blazonia",
+            "repo": "Blazonia",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactiveElmish.Avalonia",
+          "description": "MVU applications using F# and Avalonia (with XAML views).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2025-11-12T16:06:41Z",
+            "owner": "JordanMarr",
+            "repo": "ReactiveElmish.Avalonia",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactiveValidation",
+          "description": "Validating properties with messages on UI using fluent-style rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-02T17:43:32Z",
+            "owner": "Karnah",
+            "repo": "ReactiveValidation",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stylet.Avalonia",
+          "description": "A very lightweight but powerful ViewModel-First MVVM framework for Avalonia, inspired by Caliburn.Micro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-01T13:48:08Z",
+            "owner": "sealoyal2018",
+            "repo": "Stylet.Avalonia",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NP.Avalonia.Gidon",
+          "description": "IoC MVVM framework for Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-02-26T23:08:17Z",
+            "owner": "npolyak",
+            "repo": "NP.Avalonia.Gidon",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "MVVM & MVP & MVU"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ScottPlot",
+          "description": "Interactive Plotting Library for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-22T19:50:21Z",
+            "owner": "ScottPlot",
+            "repo": "ScottPlot",
+            "stars": 6703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveCharts2",
+          "description": "Simple, flexible, interactive & powerful charts, maps and gauges for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-20T18:51:21Z",
+            "owner": "Live-Charts",
+            "repo": "LiveCharts2",
+            "stars": 5332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OxyPlot",
+          "description": "A cross-platform plotting library for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-11T15:03:23Z",
+            "owner": "oxyplot",
+            "repo": "oxyplot-avalonia",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microcharts",
+          "description": "A simple Avalonia only port of the Microcharts library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-21T17:28:24Z",
+            "owner": "AvaloniaCommunity",
+            "repo": "Avalonia.Microcharts",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoDiagram",
+          "description": "A .NET library for rapidly building interactive diagrams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T20:10:48Z",
+            "owner": "NorthwoodsSoftware",
+            "repo": "GoDiagram",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StockPlot",
+          "description": "A Stock Markets Technical Analysis library for AvaloniaUI, based on ScottPlot, supporting live data stream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-29T08:15:27Z",
+            "owner": "BizUnity",
+            "repo": "StockPlot",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeeChart",
+          "description": "Versatile native .NET Charting, Map, and Gauge control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T09:18:24Z",
+            "owner": "Steema",
+            "repo": "TeeChart-Avalonia-Samples",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Charts & Plots & Diagrams"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Controls"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dock",
+          "description": "A docking layout system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T11:27:17Z",
+            "owner": "wieslawsoltes",
+            "repo": "Dock",
+            "stars": 1456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NP.Avalonia.Unidock",
+          "description": "Simple VS2022-like window and view docking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-02T00:31:55Z",
+            "owner": "npolyak",
+            "repo": "NP.Avalonia.UniDock",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniDock",
+          "description": "A docking layout system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-02T00:31:55Z",
+            "owner": "npolyak",
+            "repo": "NP.Avalonia.UniDock",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Docking Layout"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Markdown.Avalonia",
+          "description": "Render Markdown in Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-13T15:17:04Z",
+            "owner": "whistyun",
+            "repo": "Markdown.Avalonia",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveMarkdown.Avalonia",
+          "description": "High performance, real-time markdown renderer for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T06:01:41Z",
+            "owner": "DearVa",
+            "repo": "LiveMarkdown.Avalonia",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MuPDFCore",
+          "description": "Multi-platform .NET bindings for MuPDF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-17T22:33:01Z",
+            "owner": "arklumpus",
+            "repo": "MuPDFCore",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PdfLibCore",
+          "description": "A fast PDF editing and reading library for modern .NET Core applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-30T10:32:41Z",
+            "owner": "jbaarssen",
+            "repo": "PdfLibCore",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Print to PDF",
+          "description": "An experimental library for creating PDFs from Avalonia UI visuals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-23T08:40:37Z",
+            "owner": "Oaz",
+            "repo": "AvaloniaUI.PrintToPDF",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avae.Printables",
+          "description": "A library for printing from Avalonia UI visuals and other files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-01T18:47:35Z",
+            "owner": "cedric56",
+            "repo": "Avae.Printables",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avae.Printables.Docx",
+          "description": "A library for printing docx files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-31T10:53:16Z",
+            "owner": "cedric56",
+            "repo": "Avae.Printables.Docx",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avae.Printables.Xps",
+          "description": "A library for printing xps files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-30T22:25:35Z",
+            "owner": "cedric56",
+            "repo": "Avae.Printables.Xps",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Document Viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MediaPlayerUI",
+          "description": "Re-usable media player UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-12T21:26:12Z",
+            "owner": "mysteryx93",
+            "repo": "MediaPlayerUI.NET",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarcusW.VncClient",
+          "description": "A high-performance, cross-platform VNC client control with Avalonia support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-07T16:11:29Z",
+            "owner": "MarcusWichelmann",
+            "repo": "MarcusW.VncClient",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaGif",
+          "description": "Purely C# GIF decoder and animation library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-09-02T09:24:05Z",
+            "owner": "AvaloniaUI",
+            "repo": "Avalonia.GIF",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FFME.Avalonia",
+          "description": "MediaElement based on FFMpeg.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-09T06:05:31Z",
+            "owner": "WangsYi",
+            "repo": "ffme.avalonia",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mpv.Avalonia",
+          "description": "MediaControl for avalonia based on MPV and OpenGL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-21T07:31:13Z",
+            "owner": "SaverinOnRails",
+            "repo": "Mpv.Avalonia",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Media Players"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UVtools.AvaloniaControls",
+          "description": "Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid, and cursor images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T03:53:55Z",
+            "owner": "sn4k3",
+            "repo": "UVtools",
+            "stars": 1602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentAvalonia",
+          "description": "Fluent Design and WinUi Controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T21:09:00Z",
+            "owner": "amwx",
+            "repo": "FluentAvalonia",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ursa.Avalonia",
+          "description": "Ursa is a UI library for building cross-platform UIs with Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T01:03:25Z",
+            "owner": "irihitech",
+            "repo": "Ursa.Avalonia",
+            "stars": 1547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaEdit",
+          "description": "This is a port of AvalonEdit for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-05T07:54:45Z",
+            "owner": "AvaloniaUI",
+            "repo": "AvaloniaEdit",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AtomUI",
+          "description": "AtomUI is an implementation of Ant Design based on Avalonia/.NET technology, and is committed to bringing Ant Design's excellent and efficient design language and experience to the Avalonia/.NET cross-platform desktop software development field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T06:15:12Z",
+            "owner": "AtomUI",
+            "repo": "AtomUI",
+            "stars": 820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aura.UI",
+          "description": "A Library with a lot of Controls for AvaloniaUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-18T16:40:39Z",
+            "owner": "PieroCastillo",
+            "repo": "Aura.UI",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MessageBox.Avalonia",
+          "description": "Message Box UI for Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-21T17:08:55Z",
+            "owner": "AvaloniaCommunity",
+            "repo": "MessageBox.Avalonia",
+            "stars": 595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GMap.NET",
+          "description": "GMap.NET Allows the use of routing, geocoding, directions and maps from Google, Yahoo!, Bing, OpenStreetMap, ArcGIS, Pergo, SigPac, Yendux, Mapy.cz, Maps.lt, iKarte.lv, NearMap, HereMap, CloudMade, WikiMapia, MapQuest, and many more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-25T13:40:42Z",
+            "owner": "judero01col",
+            "repo": "GMap.NET",
+            "stars": 511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PanAndZoom",
+          "description": "Pan and zoom control for WPF and Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-10T21:28:52Z",
+            "owner": "wieslawsoltes",
+            "repo": "PanAndZoom",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Actipro Avalonia UI Controls",
+          "description": "Free UI controls and beautiful themes, along with a Pro option for advanced controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-01T18:13:35Z",
+            "owner": "Actipro",
+            "repo": "Avalonia-Controls",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DialogHost.Avalonia",
+          "description": "Managed asynchronous overlay dialogs implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-15T22:26:25Z",
+            "owner": "AvaloniaUtils",
+            "repo": "DialogHost.Avalonia",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaGraphControl",
+          "description": "A graph layout panel based on Microsoft Automatic Graph Layout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-19T21:39:05Z",
+            "owner": "Oaz",
+            "repo": "AvaloniaGraphControl",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avalonia.PropertyGrid",
+          "description": "A property editing control similar to DevExpress.PropertyGridControl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-05T04:40:17Z",
+            "owner": "bodong1987",
+            "repo": "Avalonia.PropertyGrid",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodifyAvalonia",
+          "description": "Highly performant and modular controls for node-based editors designed for data-binding and MVVM. 1-1 port of WPF's version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-14T21:03:48Z",
+            "owner": "BAndysc",
+            "repo": "nodify-avalonia",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExtendedToolkit",
+          "description": "Extended Controls for Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-05T19:28:27Z",
+            "owner": "mameolan",
+            "repo": "Avalonia.ExtendedToolkit",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaProgressRing",
+          "description": "A simple progress ring control based on ModernWpf's progress ring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T10:54:04Z",
+            "owner": "Deadpikle",
+            "repo": "AvaloniaProgressRing",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EremexControls.NET",
+          "description": "Commercial UI controls for the cross-platform Avalonia UI framework to help you deliver cutting-edge applications with enhanced UX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-15T13:03:07Z",
+            "owner": "Eremex",
+            "repo": "controls-demo",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabalonia",
+          "description": "Tab Control with drag-able tabs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-05T19:28:11Z",
+            "owner": "egorozh",
+            "repo": "Tabalonia",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodifyM.Avalonia",
+          "description": "A collection of controls for node based editors designed for MVVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-12T05:32:48Z",
+            "owner": "Maklith",
+            "repo": "NodifyM.Avalonia",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aura3D",
+          "description": "A lightweight, extensible, and high-performance 3D rendering control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T18:23:42Z",
+            "owner": "CeSun",
+            "repo": "Aura3D",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notification.Avalonia",
+          "description": "Control for show different information in LINQ style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-03T08:18:08Z",
+            "owner": "AvaloniaCommunity",
+            "repo": "Notification.Avalonia",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaAutoGrid",
+          "description": "A flexible, easy to configure replacement for the standard Grid control.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-02-12T01:17:41Z",
+            "owner": "AvaloniaUI",
+            "repo": "AvaloniaAutoGrid",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaHex",
+          "description": "A hex editor control for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-18T14:54:00Z",
+            "owner": "Washi1337",
+            "repo": "AvaloniaHex",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaRibbon",
+          "description": "Ribbon for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-10T20:15:05Z",
+            "owner": "Splitwirez",
+            "repo": "ribbon-for-avalonia",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiquidGlassAvaloniaUI",
+          "description": "Implemented a control similar to Apple's LiquidGlass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-29T14:13:17Z",
+            "owner": "KaranocaVe",
+            "repo": "LiquidGlassAvaloniaUI",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CalendarControl",
+          "description": "A calendar control (week view) for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-03T06:00:16Z",
+            "owner": "satial-interfaces",
+            "repo": "CalendarControl",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaColorPicker",
+          "description": "A color picker that supports RGB, HSB, and CIELAB color spaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-30T12:34:58Z",
+            "owner": "arklumpus",
+            "repo": "AvaloniaColorPicker",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaSpacedGrid",
+          "description": "An extension of AvaloniaUI's Grid class with added RowSpacing and ColumnSpacing properties.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-05T14:25:08Z",
+            "owner": "Nickelony",
+            "repo": "SpacedGrid-Avalonia",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Egorozh.ColorPicker",
+          "description": "A color picker with RGB and HSB support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-15T17:48:31Z",
+            "owner": "egorozh",
+            "repo": "Egorozh.ColorPicker",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PleasantUI",
+          "description": "Graphical user interface library for Avalonia with its own controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T13:02:04Z",
+            "owner": "Onebeld",
+            "repo": "PleasantUI",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperText",
+          "description": "Control for visualizing and using hypertext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-27T16:02:35Z",
+            "owner": "AvaloniaUtils",
+            "repo": "HyperText.Avalonia",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ripple Effect",
+          "description": "Sample of ripple effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-11-17T22:31:46Z",
+            "owner": "Roflyanochka",
+            "repo": "AvaloniaRipple",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RangeSlider",
+          "description": "RangeSlider control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-11T14:19:56Z",
+            "owner": "DmitryNizhebovsky",
+            "repo": "Avalonia.RangeSlider",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaCalendarView",
+          "description": "Editable month view, week view and day view calendar control for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-06T11:54:18Z",
+            "owner": "SaverinOnRails",
+            "repo": "AvaloniaCalendarView",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JamSoft.AvaloniaUI.Dialogs",
+          "description": "An MVVM dialog service. Allows custom views, file dialogs, and includes a complete multistep Wizard Control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-30T14:08:32Z",
+            "owner": "jamsoft",
+            "repo": "JamSoft.AvaloniaUI.Dialogs",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tulesha.ToolBarControls.Avalonia",
+          "description": "A ToolBar and ToolBarTray controls for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-05T08:21:19Z",
+            "owner": "Tulesha",
+            "repo": "ToolBarControls.Avalonia",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paginator.Avalonia",
+          "description": "A paginator control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-31T09:47:42Z",
+            "owner": "AvaloniaUtils",
+            "repo": "Paginator.Avalonia",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xamarin.Forms.Platform.Avalonia",
+          "description": "Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-03-29T13:09:11Z",
+            "owner": "zhongzf",
+            "repo": "Xamarin.Forms.Platform.Avalonia",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DotNetCampus.InkCanvas",
+          "description": "An InkCanvas control for drawing and handwriting on Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-13T04:43:09Z",
+            "owner": "dotnet-campus",
+            "repo": "DotNetCampus.InkCanvas",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaFixedWrapPanel",
+          "description": "Avalonia WrapPanel with fixed number of items per line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-17T21:11:37Z",
+            "owner": "MikD1",
+            "repo": "AvaloniaFixedWrapPanel",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Movere",
+          "description": "Movere is an implementation of managed dialogs for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-28T16:29:08Z",
+            "owner": "jp2masa",
+            "repo": "Movere",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MvvmNavigation",
+          "description": "MVVM friendly library for easy navigation management in Avalonia applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-04T08:13:33Z",
+            "owner": "Egor92",
+            "repo": "MvvmNavigation",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NP.Avalonia.Visuals",
+          "description": "Additional visual controls by npolyak.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-21T21:01:30Z",
+            "owner": "npolyak",
+            "repo": "NP.Avalonia.Visuals",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaNavigationBar",
+          "description": "Custom BottomNavigationBar Sample.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-11-13T15:38:18Z",
+            "owner": "lukewire129",
+            "repo": "navigationbar-avaloniaui",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaNavigationPage",
+          "description": "Page Transition Mechanism.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-31T04:37:17Z",
+            "owner": "lukewire129",
+            "repo": "AvaloniaNavigationPage",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jc.PopupView.Avalonia",
+          "description": "Beautiful, animated toasts, alerts, and other popups for Avalonia UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T01:07:27Z",
+            "owner": "jcsawyer",
+            "repo": "Jc.PopupView.Avalonia",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tulesha.KnobControl.Avalonia",
+          "description": "A Knob control for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-05T08:16:55Z",
+            "owner": "Tulesha",
+            "repo": "KnobControl.Avalonia",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "UI Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Estragonia",
+          "description": "Integration of Avalonia into the Godot game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-19T11:31:07Z",
+            "owner": "MrJul",
+            "repo": "Estragonia",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokemonBattleEngine",
+          "description": "A C# library that can emulate Pokémon battles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-06-19T12:31:33Z",
+            "owner": "Kermalis",
+            "repo": "PokemonBattleEngine",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonoGame",
+          "description": "Integration of MonoGame for Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-21T15:20:42Z",
+            "owner": "AvaloniaInside",
+            "repo": "AvaloniaInside.MonoGame",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BattleCity",
+          "description": "2D game stub rendered completely by AvaloniaUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-08-02T10:47:24Z",
+            "owner": "kekekeks",
+            "repo": "Avalonia.BattleCity",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Macabre2D",
+          "description": "A game engine built on MonoGame.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-07-26T19:18:04Z",
+            "owner": "Macabresoft",
+            "repo": "Macabre2D",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvaloniaTetris",
+          "description": "A Tetris game written with Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-04-22T04:55:02Z",
+            "owner": "IvanJosipovic",
+            "repo": "AvaloniaTetris",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Games and Game engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OutSystems WebView",
+          "description": "Fully-featured Avalonia WebView Control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-18T09:55:09Z",
+            "owner": "OutSystems",
+            "repo": "WebView",
+            "stars": 595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CefGlue",
+          "description": ".NET/Mono binding for The Chromium Embedded Framework (CEF).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T12:47:23Z",
+            "owner": "OutSystems",
+            "repo": "CefGlue",
+            "stars": 454
+          }
+        }
+      ],
+      "title": "Web Browsers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Presentations slides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Avalonia-Skills",
+          "description": "AI agent skills for OpenCode, Claude Code, and other agents — dense reference covering the full Avalonia framework (XAML, layout, styling, data binding, MVVM, controls, testing, deployment, and WPF migration). Install with a single command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-24T07:35:56Z",
+            "owner": "linuxdevel",
+            "repo": "Avalonia-skills",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ComeOnOver Desktop Launcher",
+          "description": "A Windows launcher that manages multiple isolated Claude AI instances side by side, with per-slot resource monitoring, thumbnails, and auto-update via Velopack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-14T15:21:39Z",
+            "owner": "LewisIsWorking",
+            "repo": "ClaudeDesktopLauncher",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Artificial Intelligence"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Svg.Skia",
+          "description": "An SVG rendering library with an example of Avalonia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T09:59:45Z",
+            "owner": "wieslawsoltes",
+            "repo": "Svg.Skia",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Citrus.Avalonia",
+          "description": "Modern styles for Avalonia controls.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-01-10T20:31:35Z",
+            "owner": "AvaloniaUI",
+            "repo": "Citrus.Avalonia",
+            "stars": 597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rider Plugin for Avalonia",
+          "description": "JetBrains Rider plugin for Avalonia development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T01:02:25Z",
+            "owner": "ForNeVeR",
+            "repo": "AvaloniaRider",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HotAvalonia",
+          "description": "Supercharge your Avalonia development experience with hot reload capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-18T02:25:56Z",
+            "owner": "Kira-NT",
+            "repo": "HotAvalonia",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live.Avalonia",
+          "description": "Live reloading tool for developing Avalonia applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-11-01T00:50:18Z",
+            "owner": "AvaloniaUI",
+            "repo": "Live.Avalonia",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avant Garde",
+          "description": "Standalone cross-platform XAML previewer for the C# Avalonia Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-06T08:40:27Z",
+            "owner": "kuiperzone",
+            "repo": "AvantGarde",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PupNet Deploy",
+          "description": "Cross-platform deployment utility which publishes your Avalonia application and packages it as a ready-to-ship installation file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-12T21:52:09Z",
+            "owner": "kuiperzone",
+            "repo": "PupNet-Deploy",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThemeEditor",
+          "description": "ThemeEditor is an Avalonia UI Framework theme editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-10T14:37:08Z",
+            "owner": "wieslawsoltes",
+            "repo": "ColorPicker",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IconPacks",
+          "description": "Import of more than 21,000 vector icons from the Visual Studio image library, VSCode Icons, and MahApps.Metro.IconPacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-22T16:13:34Z",
+            "owner": "ahopper",
+            "repo": "Avalonia.IconPacks",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThemeManager",
+          "description": "Theme manager for Avalonia applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-24T22:31:50Z",
+            "owner": "wieslawsoltes",
+            "repo": "ThemeManager.Avalonia",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotnet-properties",
+          "description": ".NET Core CLI extension that allows editing project properties using a cross-platform UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-03-25T23:14:05Z",
+            "owner": "jp2masa",
+            "repo": "dotnet-properties",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avalonia Toolkit",
+          "description": "Visual Studio Extension to generate boilerplate Avalonia related code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-25T14:15:50Z",
+            "owner": "rabbitism",
+            "repo": "AvaloniaToolkit",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IconPacks Testbed",
+          "description": "Testbed for MahApps.Avalonia.IconPacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-02T14:08:31Z",
+            "owner": "punker76",
+            "repo": "MahApps.Avalonia.IconPacks.Testbed",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avalonia Material Icon Pack",
+          "description": "All Material Icons Pack that can be found in https://fonts.google.com/icons (net5.0 only).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-26T19:44:09Z",
+            "owner": "aboimpinto",
+            "repo": "MaterialDesign.Avalonia",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Tooling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Courses"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:50:48.648Z",
+    "original_repository": "AvaloniaCommunity/awesome-avalonia",
+    "original_repository_sha": "0141e3e1f65a9ab411cd4b77b4667b32568bee5d",
+    "enhanced_repository": "enhansome/enhansome-avalonia",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Avalonia with stars"
+  }
+}
