@@ -12,10 +12,10 @@
             "archived": false,
             "id": 14964475,
             "language": "C#",
-            "last_commit": "2026-08-23T21:04:04Z",
+            "last_commit": "2026-08-24T13:49:01Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31376
+            "stars": 31380
           }
         },
         {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-24T01:14:22Z",
                 "owner": "openutau",
                 "repo": "OpenUtau",
-                "stars": 4224
+                "stars": 4225
               }
             },
             {
@@ -478,7 +478,7 @@
                 "last_commit": "2026-08-24T05:29:47Z",
                 "owner": "d3ara1n",
                 "repo": "Polymerium",
-                "stars": 114
+                "stars": 115
               }
             },
             {
@@ -602,10 +602,10 @@
                 "archived": false,
                 "id": 79786795,
                 "language": "C#",
-                "last_commit": "2026-08-23T23:19:14Z",
+                "last_commit": "2026-08-24T09:56:08Z",
                 "owner": "Ruben2776",
                 "repo": "PicView",
-                "stars": 3471
+                "stars": 3473
               }
             },
             {
@@ -617,7 +617,7 @@
                 "archived": false,
                 "id": 307580320,
                 "language": "C#",
-                "last_commit": "2026-08-24T05:32:45Z",
+                "last_commit": "2026-08-24T12:56:07Z",
                 "owner": "b-editor",
                 "repo": "beutl",
                 "stars": 1224
@@ -747,7 +747,7 @@
                 "last_commit": "2026-08-17T12:09:25Z",
                 "owner": "Sylinko",
                 "repo": "Everywhere",
-                "stars": 6245
+                "stars": 6246
               }
             },
             {
@@ -856,10 +856,10 @@
                 "archived": false,
                 "id": 425837195,
                 "language": "C#",
-                "last_commit": "2026-08-24T05:33:35Z",
+                "last_commit": "2026-08-24T11:21:13Z",
                 "owner": "sourcegit-scm",
                 "repo": "sourcegit",
-                "stars": 5793
+                "stars": 5795
               }
             },
             {
@@ -874,7 +874,7 @@
                 "last_commit": "2026-08-20T18:33:04Z",
                 "owner": "roslynpad",
                 "repo": "roslynpad",
-                "stars": 2807
+                "stars": 2808
               }
             },
             {
@@ -961,10 +961,10 @@
                 "archived": false,
                 "id": 227571766,
                 "language": "C#",
-                "last_commit": "2026-08-19T15:59:01Z",
+                "last_commit": "2026-08-24T11:32:07Z",
                 "owner": "aloneguid",
                 "repo": "parquet-dotnet",
-                "stars": 903
+                "stars": 904
               }
             },
             {
@@ -1069,7 +1069,7 @@
                 "last_commit": "2024-09-30T14:30:20Z",
                 "owner": "CoolCoolTomato",
                 "repo": "MatoEditor",
-                "stars": 99
+                "stars": 100
               }
             },
             {
@@ -1163,10 +1163,10 @@
                 "archived": false,
                 "id": 1129876754,
                 "language": "Zig",
-                "last_commit": "2026-08-24T04:36:55Z",
+                "last_commit": "2026-08-24T13:51:10Z",
                 "owner": "Seafoam-Labs",
                 "repo": "Shelly-ALPM",
-                "stars": 1034
+                "stars": 1036
               }
             },
             {
@@ -1193,7 +1193,7 @@
                 "archived": false,
                 "id": 180503555,
                 "language": "C#",
-                "last_commit": "2026-08-24T05:13:59Z",
+                "last_commit": "2026-08-24T12:11:07Z",
                 "owner": "IvanJosipovic",
                 "repo": "KubeUI",
                 "stars": 324
@@ -1283,7 +1283,7 @@
                 "archived": false,
                 "id": 450050175,
                 "language": "C#",
-                "last_commit": "2026-08-23T22:28:14Z",
+                "last_commit": "2026-08-24T12:51:09Z",
                 "owner": "Kibnet",
                 "repo": "Unlimotion",
                 "stars": 47
@@ -1677,6 +1677,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Echoes",
+              "description": "Simple, type-safe translations library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 870734373,
+                "language": "C#",
+                "last_commit": "2026-04-14T19:28:50Z",
+                "owner": "Voyonic-Systems",
+                "repo": "Echoes",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Localization / Translation / i18n"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SukiUI",
               "description": "Avalonia UI Library with a flat design approach.",
               "children": [],
@@ -1687,7 +1709,7 @@
                 "last_commit": "2026-08-23T15:46:02Z",
                 "owner": "kikipoulet",
                 "repo": "SukiUI",
-                "stars": 2650
+                "stars": 2651
               }
             },
             {
@@ -1699,7 +1721,7 @@
                 "archived": false,
                 "id": 561788386,
                 "language": "C#",
-                "last_commit": "2026-08-08T08:10:42Z",
+                "last_commit": "2026-08-24T13:44:18Z",
                 "owner": "irihitech",
                 "repo": "Semi.Avalonia",
                 "stars": 1928
@@ -1717,7 +1739,7 @@
                 "last_commit": "2026-08-19T23:59:59Z",
                 "owner": "AvaloniaCommunity",
                 "repo": "Material.Avalonia",
-                "stars": 1155
+                "stars": 1156
               }
             },
             {
@@ -1747,7 +1769,7 @@
                 "last_commit": "2026-07-19T08:03:51Z",
                 "owner": "accntech",
                 "repo": "shad-ui",
-                "stars": 539
+                "stars": 540
               }
             },
             {
@@ -1777,7 +1799,7 @@
                 "last_commit": "2025-11-24T23:30:22Z",
                 "owner": "Projektanker",
                 "repo": "Icons.Avalonia",
-                "stars": 431
+                "stars": 430
               }
             },
             {
@@ -2226,7 +2248,7 @@
                 "last_commit": "2026-07-20T18:51:21Z",
                 "owner": "Live-Charts",
                 "repo": "LiveCharts2",
-                "stars": 5365
+                "stars": 5380
               }
             },
             {
@@ -2613,7 +2635,7 @@
                     "archived": false,
                     "id": 595221457,
                     "language": "C#",
-                    "last_commit": "2026-08-17T08:34:17Z",
+                    "last_commit": "2026-08-24T07:18:24Z",
                     "owner": "irihitech",
                     "repo": "Ursa.Avalonia",
                     "stars": 1552
@@ -3477,7 +3499,7 @@
             "last_commit": "2026-08-12T09:59:45Z",
             "owner": "wieslawsoltes",
             "repo": "Svg.Skia",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -3677,10 +3699,52 @@
         }
       ],
       "title": "Tooling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bug Reports",
+          "description": "GitHub Issues page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14964475,
+            "language": "C#",
+            "last_commit": "2026-08-24T13:49:01Z",
+            "owner": "AvaloniaUI",
+            "repo": "Avalonia",
+            "stars": 31380
+          }
+        }
+      ],
+      "title": "Community"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LauZyHou - sbid-ava",
+          "description": "内生安全建模工具，基于.NET Core 3.0 的 Avalonia 跨平台桌面应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235102325,
+            "language": "C#",
+            "last_commit": "2021-05-31T16:40:34Z",
+            "owner": "LauZyHou",
+            "repo": "sbid-ava",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Other Languages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:57:01.434Z",
+    "last_updated": "2026-08-24T13:58:51.881Z",
     "original_repository": "AvaloniaCommunity/awesome-avalonia",
     "original_repository_id": 237631278,
     "original_repository_sha": "0141e3e1f65a9ab411cd4b77b4667b32568bee5d",
