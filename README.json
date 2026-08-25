@@ -12,10 +12,10 @@
             "archived": false,
             "id": 14964475,
             "language": "C#",
-            "last_commit": "2026-08-24T13:49:01Z",
+            "last_commit": "2026-08-24T23:07:14Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31380
+            "stars": 31382
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-01-03T06:40:45Z",
             "owner": "AvaloniaUI",
             "repo": "AvaloniaVS",
-            "stars": 518
+            "stars": 519
           }
         }
       ],
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-24T01:14:22Z",
                 "owner": "openutau",
                 "repo": "OpenUtau",
-                "stars": 4225
+                "stars": 4230
               }
             },
             {
@@ -602,10 +602,10 @@
                 "archived": false,
                 "id": 79786795,
                 "language": "C#",
-                "last_commit": "2026-08-24T09:56:08Z",
+                "last_commit": "2026-08-24T22:40:27Z",
                 "owner": "Ruben2776",
                 "repo": "PicView",
-                "stars": 3473
+                "stars": 3478
               }
             },
             {
@@ -617,10 +617,10 @@
                 "archived": false,
                 "id": 307580320,
                 "language": "C#",
-                "last_commit": "2026-08-24T12:56:07Z",
+                "last_commit": "2026-08-25T05:50:29Z",
                 "owner": "b-editor",
                 "repo": "beutl",
-                "stars": 1224
+                "stars": 1225
               }
             },
             {
@@ -747,7 +747,7 @@
                 "last_commit": "2026-08-17T12:09:25Z",
                 "owner": "Sylinko",
                 "repo": "Everywhere",
-                "stars": 6246
+                "stars": 6248
               }
             },
             {
@@ -762,7 +762,7 @@
                 "last_commit": "2026-08-22T03:58:16Z",
                 "owner": "SnapXL",
                 "repo": "SnapX",
-                "stars": 1016
+                "stars": 1017
               }
             },
             {
@@ -856,10 +856,10 @@
                 "archived": false,
                 "id": 425837195,
                 "language": "C#",
-                "last_commit": "2026-08-24T11:21:13Z",
+                "last_commit": "2026-08-25T03:38:37Z",
                 "owner": "sourcegit-scm",
                 "repo": "sourcegit",
-                "stars": 5795
+                "stars": 5800
               }
             },
             {
@@ -874,7 +874,7 @@
                 "last_commit": "2026-08-20T18:33:04Z",
                 "owner": "roslynpad",
                 "repo": "roslynpad",
-                "stars": 2808
+                "stars": 2809
               }
             },
             {
@@ -961,7 +961,7 @@
                 "archived": false,
                 "id": 227571766,
                 "language": "C#",
-                "last_commit": "2026-08-24T11:32:07Z",
+                "last_commit": "2026-08-24T15:56:55Z",
                 "owner": "aloneguid",
                 "repo": "parquet-dotnet",
                 "stars": 904
@@ -979,7 +979,7 @@
                 "last_commit": "2026-06-03T17:38:47Z",
                 "owner": "alexandrehtrb",
                 "repo": "Pororoca",
-                "stars": 664
+                "stars": 665
               }
             },
             {
@@ -1163,10 +1163,10 @@
                 "archived": false,
                 "id": 1129876754,
                 "language": "Zig",
-                "last_commit": "2026-08-24T13:51:10Z",
+                "last_commit": "2026-08-25T03:58:15Z",
                 "owner": "Seafoam-Labs",
                 "repo": "Shelly-ALPM",
-                "stars": 1036
+                "stars": 1037
               }
             },
             {
@@ -1193,7 +1193,7 @@
                 "archived": false,
                 "id": 180503555,
                 "language": "C#",
-                "last_commit": "2026-08-24T12:11:07Z",
+                "last_commit": "2026-08-25T05:01:49Z",
                 "owner": "IvanJosipovic",
                 "repo": "KubeUI",
                 "stars": 324
@@ -1268,7 +1268,7 @@
                 "archived": false,
                 "id": 734370700,
                 "language": "C#",
-                "last_commit": "2026-07-15T15:45:08Z",
+                "last_commit": "2026-08-24T16:49:00Z",
                 "owner": "frequency403",
                 "repo": "OpenSSH-GUI",
                 "stars": 47
@@ -1283,7 +1283,7 @@
                 "archived": false,
                 "id": 450050175,
                 "language": "C#",
-                "last_commit": "2026-08-24T12:51:09Z",
+                "last_commit": "2026-08-24T23:54:21Z",
                 "owner": "Kibnet",
                 "repo": "Unlimotion",
                 "stars": 47
@@ -1354,7 +1354,7 @@
             "archived": false,
             "id": 519575365,
             "language": "HTML",
-            "last_commit": "2026-08-23T18:43:51Z",
+            "last_commit": "2026-08-25T02:31:22Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia.Samples",
             "stars": 1154
@@ -1372,7 +1372,7 @@
             "last_commit": "2023-07-09T16:29:10Z",
             "owner": "mysteryx93",
             "repo": "Modern.Net-Tutorial",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -1542,7 +1542,7 @@
                 "archived": false,
                 "id": 680351341,
                 "language": "C#",
-                "last_commit": "2026-08-22T13:42:13Z",
+                "last_commit": "2026-08-24T21:05:52Z",
                 "owner": "VerifyTests",
                 "repo": "Verify.Avalonia",
                 "stars": 44
@@ -1709,7 +1709,7 @@
                 "last_commit": "2026-08-23T15:46:02Z",
                 "owner": "kikipoulet",
                 "repo": "SukiUI",
-                "stars": 2651
+                "stars": 2652
               }
             },
             {
@@ -1721,7 +1721,7 @@
                 "archived": false,
                 "id": 561788386,
                 "language": "C#",
-                "last_commit": "2026-08-24T13:44:18Z",
+                "last_commit": "2026-08-24T16:00:12Z",
                 "owner": "irihitech",
                 "repo": "Semi.Avalonia",
                 "stars": 1928
@@ -1769,7 +1769,7 @@
                 "last_commit": "2026-07-19T08:03:51Z",
                 "owner": "accntech",
                 "repo": "shad-ui",
-                "stars": 540
+                "stars": 542
               }
             },
             {
@@ -1946,7 +1946,7 @@
                 "archived": false,
                 "id": 895643073,
                 "language": "C#",
-                "last_commit": "2026-08-21T17:13:18Z",
+                "last_commit": "2026-08-24T23:40:02Z",
                 "owner": "Devolutions",
                 "repo": "avalonia-extensions",
                 "stars": 79
@@ -1994,7 +1994,7 @@
                 "last_commit": "2026-08-05T09:19:36Z",
                 "owner": "NeverMorewd",
                 "repo": "Pipboy.Avalonia",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -2021,7 +2021,7 @@
                 "archived": false,
                 "id": 1018601850,
                 "language": "C#",
-                "last_commit": "2026-08-10T18:16:44Z",
+                "last_commit": "2026-08-24T18:42:04Z",
                 "owner": "LaurentInSeattle",
                 "repo": "PaletteDesigner",
                 "stars": 11
@@ -2061,7 +2061,7 @@
                 "last_commit": "2026-08-03T16:56:10Z",
                 "owner": "AvaloniaCommunity",
                 "repo": "Avalonia.Markup.Declarative",
-                "stars": 500
+                "stars": 501
               }
             },
             {
@@ -2233,7 +2233,7 @@
                 "last_commit": "2026-08-15T21:45:11Z",
                 "owner": "ScottPlot",
                 "repo": "ScottPlot",
-                "stars": 6717
+                "stars": 6719
               }
             },
             {
@@ -2248,7 +2248,7 @@
                 "last_commit": "2026-07-20T18:51:21Z",
                 "owner": "Live-Charts",
                 "repo": "LiveCharts2",
-                "stars": 5380
+                "stars": 5405
               }
             },
             {
@@ -2623,7 +2623,7 @@
                     "last_commit": "2026-08-22T17:37:48Z",
                     "owner": "amwx",
                     "repo": "FluentAvalonia",
-                    "stars": 1589
+                    "stars": 1590
                   }
                 },
                 {
@@ -2638,7 +2638,7 @@
                     "last_commit": "2026-08-24T07:18:24Z",
                     "owner": "irihitech",
                     "repo": "Ursa.Avalonia",
-                    "stars": 1552
+                    "stars": 1553
                   }
                 },
                 {
@@ -3422,7 +3422,7 @@
                 "last_commit": "2025-12-18T09:55:09Z",
                 "owner": "OutSystems",
                 "repo": "WebView",
-                "stars": 595
+                "stars": 596
               }
             },
             {
@@ -3496,7 +3496,7 @@
             "archived": false,
             "id": 216883277,
             "language": "C#",
-            "last_commit": "2026-08-12T09:59:45Z",
+            "last_commit": "2026-08-24T20:31:51Z",
             "owner": "wieslawsoltes",
             "repo": "Svg.Skia",
             "stars": 724
@@ -3712,10 +3712,10 @@
             "archived": false,
             "id": 14964475,
             "language": "C#",
-            "last_commit": "2026-08-24T13:49:01Z",
+            "last_commit": "2026-08-24T23:07:14Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31380
+            "stars": 31382
           }
         }
       ],
@@ -3744,7 +3744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:51.881Z",
+    "last_updated": "2026-08-25T05:52:48.057Z",
     "original_repository": "AvaloniaCommunity/awesome-avalonia",
     "original_repository_id": 237631278,
     "original_repository_sha": "0141e3e1f65a9ab411cd4b77b4667b32568bee5d",
