@@ -12,11 +12,12 @@
             "archived": false,
             "id": 14964475,
             "language": "C#",
-            "last_commit": "2026-08-27T16:20:22Z",
+            "last_commit": "2026-08-28T16:47:43Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31400
-          }
+            "stars": 31409
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "AvaloniaUI",
             "repo": "Avalonia.Templates",
             "stars": 666
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "AvaloniaUI",
             "repo": "AvaloniaVS",
             "stars": 519
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         }
       ],
       "title": "General"
@@ -68,8 +71,9 @@
                 "last_commit": "2026-08-24T01:14:22Z",
                 "owner": "openutau",
                 "repo": "OpenUtau",
-                "stars": 4236
-              }
+                "stars": 4237
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "mat1jaczyyy",
                 "repo": "apollo-studio",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "mysteryx93",
                 "repo": "HanumanInstituteApps",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "mysteryx93",
                 "repo": "HanumanInstituteApps",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "mysteryx93",
                 "repo": "HanumanInstituteApps",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -143,8 +151,9 @@
                 "last_commit": "2026-05-03T00:47:02Z",
                 "owner": "dan0v",
                 "repo": "AmplitudeSoundboard",
-                "stars": 162
-              }
+                "stars": 163
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "VitalElement",
                 "repo": "Xune",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "amp64",
                 "repo": "openphonos",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "zxyao145",
                 "repo": "XmlyDownloader",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "sz-balage",
                 "repo": "DrumBuddy",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -226,7 +239,8 @@
                 "owner": "egramtel",
                 "repo": "egram.tel",
                 "stars": 386
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "Elorucov",
                 "repo": "Laney-Avalonia",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "SkillChat",
                 "repo": "SkillChat",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "mike-ward",
                 "repo": "Loon",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "alexdillon",
                 "repo": "GroupMeClientAvalonia",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -308,7 +326,8 @@
                 "owner": "hailstorm75",
                 "repo": "ModularDoc",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "MonkAlex",
                 "repo": "MangaReader",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "ahpxex",
                 "repo": "AHpx.RG",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -360,7 +381,8 @@
                 "owner": "reactiveui",
                 "repo": "Camelotia",
                 "stars": 612
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -375,7 +397,8 @@
                 "owner": "waliarubal",
                 "repo": "Jaya",
                 "stars": 437
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -393,11 +416,12 @@
                 "archived": false,
                 "id": 55341469,
                 "language": "C#",
-                "last_commit": "2026-08-27T04:18:12Z",
+                "last_commit": "2026-08-28T15:15:23Z",
                 "owner": "WalletWasabi",
                 "repo": "WalletWasabi",
                 "stars": 2603
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -412,7 +436,8 @@
                 "owner": "Nethereum",
                 "repo": "Nethereum.UI.Desktop",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -427,7 +452,8 @@
                 "owner": "joaovitored",
                 "repo": "Monetria",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -449,7 +475,8 @@
                 "owner": "fgsfds",
                 "repo": "Steam-Superheater",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -464,7 +491,8 @@
                 "owner": "fgsfds",
                 "repo": "BuildLauncher",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -475,11 +503,12 @@
                 "archived": false,
                 "id": 587816508,
                 "language": "C#",
-                "last_commit": "2026-08-26T03:07:27Z",
+                "last_commit": "2026-08-28T06:36:45Z",
                 "owner": "d3ara1n",
                 "repo": "Polymerium",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -494,7 +523,8 @@
                 "owner": "jonthysell",
                 "repo": "Mzinga",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -509,7 +539,8 @@
                 "owner": "dfgHiatus",
                 "repo": "VRCFaceTracking.Avalonia",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -524,7 +555,8 @@
                 "owner": "sandermvanvliet",
                 "repo": "RoadCaptain",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -539,7 +571,8 @@
                 "owner": "Coloryr",
                 "repo": "ColorMC",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -554,7 +587,8 @@
                 "owner": "wky214269273",
                 "repo": "AvaloniaNES",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -569,7 +603,8 @@
                 "owner": "NHLStenden",
                 "repo": "Spune",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -584,7 +619,8 @@
                 "owner": "NeverMorewd",
                 "repo": "IronVault",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -602,11 +638,12 @@
                 "archived": false,
                 "id": 79786795,
                 "language": "C#",
-                "last_commit": "2026-08-27T09:45:00Z",
+                "last_commit": "2026-08-28T17:08:47Z",
                 "owner": "Ruben2776",
                 "repo": "PicView",
-                "stars": 3492
-              }
+                "stars": 3493
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -617,11 +654,12 @@
                 "archived": false,
                 "id": 307580320,
                 "language": "C#",
-                "last_commit": "2026-08-27T15:25:19Z",
+                "last_commit": "2026-08-28T13:44:03Z",
                 "owner": "b-editor",
                 "repo": "beutl",
                 "stars": 1225
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -636,7 +674,8 @@
                 "owner": "wieslawsoltes",
                 "repo": "Core2D",
                 "stars": 1180
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -647,11 +686,12 @@
                 "archived": false,
                 "id": 366943781,
                 "language": "C#",
-                "last_commit": "2026-08-25T10:24:40Z",
+                "last_commit": "2026-08-28T13:27:19Z",
                 "owner": "carina-studio",
                 "repo": "PixelViewer",
                 "stars": 406
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -666,7 +706,8 @@
                 "owner": "arklumpus",
                 "repo": "TreeViewer",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -681,7 +722,8 @@
                 "owner": "lacmus-foundation",
                 "repo": "lacmus-app",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -696,7 +738,8 @@
                 "owner": "ComradeAkei",
                 "repo": "Xamlade",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -711,7 +754,8 @@
                 "owner": "jyswjjgdwtdtj",
                 "repo": "CsGrafeq",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -726,7 +770,8 @@
                 "owner": "wieslawsoltes",
                 "repo": "SpiroNet",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -744,11 +789,12 @@
                 "archived": false,
                 "id": 971243074,
                 "language": "C#",
-                "last_commit": "2026-08-27T10:31:29Z",
+                "last_commit": "2026-08-28T13:43:37Z",
                 "owner": "Sylinko",
                 "repo": "Everywhere",
                 "stars": 6251
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -762,8 +808,9 @@
                 "last_commit": "2026-08-22T03:58:16Z",
                 "owner": "SnapXL",
                 "repo": "SnapX",
-                "stars": 1018
-              }
+                "stars": 1019
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -778,7 +825,8 @@
                 "owner": "davidtimovski",
                 "repo": "team-sketch",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -793,7 +841,8 @@
                 "owner": "davidtimovski",
                 "repo": "sapphire-notes",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -808,7 +857,8 @@
                 "owner": "ZadokJoshua",
                 "repo": "betakads-avalonia-app",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -823,7 +873,8 @@
                 "owner": "hoyho",
                 "repo": "iTimeSlot",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -838,7 +889,8 @@
                 "owner": "randolfly",
                 "repo": "TwincatToolbox",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -856,11 +908,12 @@
                 "archived": false,
                 "id": 425837195,
                 "language": "C#",
-                "last_commit": "2026-08-27T10:13:15Z",
+                "last_commit": "2026-08-28T08:27:04Z",
                 "owner": "sourcegit-scm",
                 "repo": "sourcegit",
-                "stars": 5821
-              }
+                "stars": 5827
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -875,7 +928,8 @@
                 "owner": "roslynpad",
                 "repo": "roslynpad",
                 "stars": 2812
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -890,7 +944,8 @@
                 "owner": "icsharpcode",
                 "repo": "AvaloniaILSpy",
                 "stars": 1812
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -905,7 +960,8 @@
                 "owner": "VitalElement",
                 "repo": "AvalonStudio",
                 "stars": 1721
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -919,8 +975,9 @@
                 "last_commit": "2026-08-20T20:43:33Z",
                 "owner": "sn4k3",
                 "repo": "UVtools",
-                "stars": 1612
-              }
+                "stars": 1613
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -935,7 +992,8 @@
                 "owner": "yatli",
                 "repo": "fvim",
                 "stars": 1408
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -950,7 +1008,8 @@
                 "owner": "PowerShell",
                 "repo": "ConsoleGuiTools",
                 "stars": 953
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -965,7 +1024,8 @@
                 "owner": "aloneguid",
                 "repo": "parquet-dotnet",
                 "stars": 905
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -976,11 +1036,12 @@
                 "archived": false,
                 "id": 467317097,
                 "language": "C#",
-                "last_commit": "2026-06-03T17:38:47Z",
+                "last_commit": "2026-08-28T15:58:13Z",
                 "owner": "alexandrehtrb",
                 "repo": "Pororoca",
                 "stars": 665
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -995,7 +1056,8 @@
                 "owner": "carina-studio",
                 "repo": "ULogViewer",
                 "stars": 595
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1072,8 @@
                 "owner": "asv-soft",
                 "repo": "asv-drones",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1088,8 @@
                 "owner": "x2bool",
                 "repo": "radish",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1040,7 +1104,8 @@
                 "owner": "Natestah",
                 "repo": "BlitzSearch",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1120,8 @@
                 "owner": "reignstudios",
                 "repo": "Git-It-GUI",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1070,7 +1136,8 @@
                 "owner": "CoolCoolTomato",
                 "repo": "MatoEditor",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1085,7 +1152,8 @@
                 "owner": "Rekkonnect",
                 "repo": "Syndiesis",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1100,7 +1168,8 @@
                 "owner": "KvanTTT",
                 "repo": "DAGE",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1115,7 +1184,8 @@
                 "owner": "davidtimovski",
                 "repo": "json-formatter",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1130,7 +1200,8 @@
                 "owner": "ewilliams0305",
                 "repo": "kangaroo",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1145,7 +1216,8 @@
                 "owner": "MihaMarkic",
                 "repo": "modern-vice-pdb-monitor",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -1163,11 +1235,12 @@
                 "archived": false,
                 "id": 1129876754,
                 "language": "Zig",
-                "last_commit": "2026-08-27T16:08:55Z",
+                "last_commit": "2026-08-28T16:15:00Z",
                 "owner": "Seafoam-Labs",
                 "repo": "Shelly-ALPM",
-                "stars": 1061
-              }
+                "stars": 1066
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1182,7 +1255,8 @@
                 "owner": "legend2ks",
                 "repo": "YoutubeDownloader",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1193,11 +1267,12 @@
                 "archived": false,
                 "id": 180503555,
                 "language": "C#",
-                "last_commit": "2026-08-27T15:31:29Z",
+                "last_commit": "2026-08-28T04:43:17Z",
                 "owner": "IvanJosipovic",
                 "repo": "KubeUI",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1211,8 +1286,9 @@
                 "last_commit": "2026-01-20T17:23:17Z",
                 "owner": "dan0v",
                 "repo": "xdelta3-cross-gui",
-                "stars": 140
-              }
+                "stars": 141
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1226,8 +1302,9 @@
                 "last_commit": "2025-09-22T14:11:26Z",
                 "owner": "afunc233",
                 "repo": "Komiic",
-                "stars": 134
-              }
+                "stars": 135
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1242,7 +1319,8 @@
                 "owner": "ptupitsyn",
                 "repo": "let-it-snow",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1257,7 +1335,8 @@
                 "owner": "npolyak",
                 "repo": "NP.Avalonia.Demos",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1272,7 +1351,8 @@
                 "owner": "frequency403",
                 "repo": "OpenSSH-GUI",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1287,7 +1367,8 @@
                 "owner": "Kibnet",
                 "repo": "Unlimotion",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1302,7 +1383,8 @@
                 "owner": "DamianSuess",
                 "repo": "Learn.PrismAvaloniaOutlookish",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1317,7 +1399,8 @@
                 "owner": "NeverMorewd",
                 "repo": "Lemon.ShadowFiend",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1332,7 +1415,8 @@
                 "owner": "curiousvlxd",
                 "repo": "YouTube-Video-Uploader-Avalonia",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -1354,11 +1438,12 @@
             "archived": false,
             "id": 519575365,
             "language": "HTML",
-            "last_commit": "2026-08-27T16:15:15Z",
+            "last_commit": "2026-08-27T16:34:52Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia.Samples",
             "stars": 1156
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -1373,7 +1458,8 @@
             "owner": "mysteryx93",
             "repo": "Modern.Net-Tutorial",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -1388,7 +1474,8 @@
             "owner": "Deadpikle",
             "repo": "macOS.SparkleUpdater.Avalonia",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -1403,7 +1490,8 @@
             "owner": "SuperJMN",
             "repo": "Avalonia-IoT-LedBar",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         }
       ],
       "title": "Tutorials"
@@ -1426,7 +1514,8 @@
                 "owner": "AvaloniaUI",
                 "repo": "Avalonia.Xaml.Behaviors",
                 "stars": 408
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1441,7 +1530,8 @@
                 "owner": "AvaloniaUtils",
                 "repo": "AsyncImageLoader.Avalonia",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1456,7 +1546,8 @@
                 "owner": "liwuqingxin",
                 "repo": "Avalonia.Css",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1471,7 +1562,8 @@
                 "owner": "AvaloniaInside",
                 "repo": "Shell",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1486,7 +1578,8 @@
                 "owner": "NeverMorewd",
                 "repo": "Hosting.Avaloniaui",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1501,7 +1594,8 @@
                 "owner": "NeverMorewd",
                 "repo": "Lemon.ModuleNavigation",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1516,7 +1610,8 @@
                 "owner": "russkyc",
                 "repo": "sortable-avalonia",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1531,7 +1626,8 @@
                 "owner": "AvaloniaUtils",
                 "repo": "ShowMeTheXaml.Avalonia",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1542,11 +1638,12 @@
                 "archived": false,
                 "id": 680351341,
                 "language": "C#",
-                "last_commit": "2026-08-27T09:04:02Z",
+                "last_commit": "2026-08-28T12:22:10Z",
                 "owner": "VerifyTests",
                 "repo": "Verify.Avalonia",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1561,7 +1658,8 @@
                 "owner": "NeverMorewd",
                 "repo": "AsyncNavigation",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1576,7 +1674,8 @@
                 "owner": "FibonacciFox",
                 "repo": "Peachpie.Avalonia",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1591,7 +1690,8 @@
                 "owner": "jcsawyer",
                 "repo": "Jc.AdMob.Avalonia",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1606,7 +1706,8 @@
                 "owner": "cedric56",
                 "repo": "Avae.Windows.Essentials",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1621,7 +1722,8 @@
                 "owner": "cedric56",
                 "repo": "Avae.Linux.Essentials",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1636,7 +1738,8 @@
                 "owner": "cedric56",
                 "repo": "Avae.macOS.Essentials",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1651,7 +1754,8 @@
                 "owner": "Nukepayload2",
                 "repo": "Nukepayload2.SourceGenerators.AvaloniaUI",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1666,7 +1770,8 @@
                 "owner": "cedric56",
                 "repo": "Avae.Browser.Essentials",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -1688,7 +1793,8 @@
                 "owner": "Voyonic-Systems",
                 "repo": "Echoes",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -1709,8 +1815,9 @@
                 "last_commit": "2026-08-27T12:48:54Z",
                 "owner": "kikipoulet",
                 "repo": "SukiUI",
-                "stars": 2653
-              }
+                "stars": 2654
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1724,8 +1831,9 @@
                 "last_commit": "2026-08-26T17:29:11Z",
                 "owner": "irihitech",
                 "repo": "Semi.Avalonia",
-                "stars": 1929
-              }
+                "stars": 1930
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1740,7 +1848,8 @@
                 "owner": "AvaloniaCommunity",
                 "repo": "Material.Avalonia",
                 "stars": 1156
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1754,8 +1863,9 @@
                 "last_commit": "2024-07-25T21:09:18Z",
                 "owner": "AngryCarrot789",
                 "repo": "WPFDarkTheme",
-                "stars": 544
-              }
+                "stars": 545
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1769,8 +1879,9 @@
                 "last_commit": "2026-07-19T08:03:51Z",
                 "owner": "accntech",
                 "repo": "shad-ui",
-                "stars": 543
-              }
+                "stars": 544
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1785,7 +1896,8 @@
                 "owner": "BAndysc",
                 "repo": "Classic.Avalonia",
                 "stars": 445
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1800,7 +1912,8 @@
                 "owner": "Projektanker",
                 "repo": "Icons.Avalonia",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1815,7 +1928,8 @@
                 "owner": "flarive",
                 "repo": "Neumorphism.Avalonia",
                 "stars": 411
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1830,7 +1944,8 @@
                 "owner": "kikipoulet",
                 "repo": "CherylUI",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1845,7 +1960,8 @@
                 "owner": "SKProCH",
                 "repo": "Material.Icons",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1860,7 +1976,8 @@
                 "owner": "MicroSugarDeveloperOrg",
                 "repo": "AntDesign.Avalonia",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1875,7 +1992,8 @@
                 "owner": "Splitwirez",
                 "repo": "aero-theme-for-avalonia",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1890,7 +2008,8 @@
                 "owner": "MahApps",
                 "repo": "IconPacks.Avalonia",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1905,7 +2024,8 @@
                 "owner": "MarwanFr",
                 "repo": "LucideAvaloniaUI",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1920,7 +2040,8 @@
                 "owner": "russkyc",
                 "repo": "heroicons-avalonia",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1935,7 +2056,8 @@
                 "owner": "d3ara1n",
                 "repo": "Huskui.Avalonia",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1946,11 +2068,12 @@
                 "archived": false,
                 "id": 895643073,
                 "language": "C#",
-                "last_commit": "2026-08-27T14:23:05Z",
+                "last_commit": "2026-08-28T14:46:52Z",
                 "owner": "Devolutions",
                 "repo": "avalonia-extensions",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1965,7 +2088,8 @@
                 "owner": "Romzetron",
                 "repo": "Romzetron.Avalonia",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1980,7 +2104,8 @@
                 "owner": "dme-compunet",
                 "repo": "Lucide.Avalonia",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -1995,7 +2120,8 @@
                 "owner": "NeverMorewd",
                 "repo": "Pipboy.Avalonia",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2010,7 +2136,8 @@
                 "owner": "liwuqingxin",
                 "repo": "Magic.Icon",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2025,7 +2152,8 @@
                 "owner": "LaurentInSeattle",
                 "repo": "PaletteDesigner",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -2047,7 +2175,8 @@
                 "owner": "fsprojects",
                 "repo": "Avalonia.FuncUI",
                 "stars": 1257
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2062,7 +2191,8 @@
                 "owner": "AvaloniaCommunity",
                 "repo": "Avalonia.Markup.Declarative",
                 "stars": 501
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2073,11 +2203,12 @@
                 "archived": false,
                 "id": 231124956,
                 "language": "C#",
-                "last_commit": "2026-06-10T12:42:39Z",
+                "last_commit": "2026-08-28T13:42:43Z",
                 "owner": "AvaloniaCommunity",
                 "repo": "Prism.Avalonia",
                 "stars": 406
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2092,7 +2223,8 @@
                 "owner": "kekyo",
                 "repo": "Epoxy",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2107,7 +2239,8 @@
                 "owner": "mysteryx93",
                 "repo": "HanumanInstitute.MvvmDialogs",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2118,11 +2251,12 @@
                 "archived": false,
                 "id": 124766393,
                 "language": "C#",
-                "last_commit": "2026-08-14T19:03:27Z",
+                "last_commit": "2026-08-27T19:39:28Z",
                 "owner": "reactiveui",
                 "repo": "ReactiveMvvm",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2137,7 +2271,8 @@
                 "owner": "wieslawsoltes",
                 "repo": "ReactiveHistory",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2151,8 +2286,9 @@
                 "last_commit": "2026-02-27T03:51:31Z",
                 "owner": "Blazonia",
                 "repo": "Blazonia",
-                "stars": 139
-              }
+                "stars": 140
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2167,7 +2303,8 @@
                 "owner": "JordanMarr",
                 "repo": "ReactiveElmish.Avalonia",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2182,7 +2319,8 @@
                 "owner": "Karnah",
                 "repo": "ReactiveValidation",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2197,7 +2335,8 @@
                 "owner": "sealoyal2018",
                 "repo": "Stylet.Avalonia",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2212,7 +2351,8 @@
                 "owner": "npolyak",
                 "repo": "NP.Avalonia.Gidon",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -2233,8 +2373,9 @@
                 "last_commit": "2026-08-15T21:45:11Z",
                 "owner": "ScottPlot",
                 "repo": "ScottPlot",
-                "stars": 6720
-              }
+                "stars": 6722
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2248,8 +2389,9 @@
                 "last_commit": "2026-07-20T18:51:21Z",
                 "owner": "Live-Charts",
                 "repo": "LiveCharts2",
-                "stars": 5421
-              }
+                "stars": 5422
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2264,7 +2406,8 @@
                 "owner": "oxyplot",
                 "repo": "oxyplot-avalonia",
                 "stars": 359
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2279,7 +2422,8 @@
                 "owner": "AvaloniaCommunity",
                 "repo": "Avalonia.Microcharts",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2294,7 +2438,8 @@
                 "owner": "NorthwoodsSoftware",
                 "repo": "GoDiagram",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2309,7 +2454,8 @@
                 "owner": "BizUnity",
                 "repo": "StockPlot",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -2324,7 +2470,8 @@
                 "owner": "Steema",
                 "repo": "TeeChart-Avalonia-Samples",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -2344,11 +2491,12 @@
                     "archived": false,
                     "id": 134182879,
                     "language": "C#",
-                    "last_commit": "2026-08-20T09:48:38Z",
+                    "last_commit": "2026-08-27T20:49:52Z",
                     "owner": "wieslawsoltes",
                     "repo": "Dock",
                     "stars": 1465
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2363,7 +2511,8 @@
                     "owner": "npolyak",
                     "repo": "NP.Avalonia.UniDock",
                     "stars": 168
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2378,7 +2527,8 @@
                     "owner": "npolyak",
                     "repo": "NP.Avalonia.UniDock",
                     "stars": 168
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 }
               ],
               "description": null,
@@ -2400,7 +2550,8 @@
                     "owner": "whistyun",
                     "repo": "Markdown.Avalonia",
                     "stars": 417
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2415,7 +2566,8 @@
                     "owner": "DearVa",
                     "repo": "LiveMarkdown.Avalonia",
                     "stars": 166
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2430,7 +2582,8 @@
                     "owner": "arklumpus",
                     "repo": "MuPDFCore",
                     "stars": 151
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2445,7 +2598,8 @@
                     "owner": "jbaarssen",
                     "repo": "PdfLibCore",
                     "stars": 130
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2460,7 +2614,8 @@
                     "owner": "Oaz",
                     "repo": "AvaloniaUI.PrintToPDF",
                     "stars": 119
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2475,7 +2630,8 @@
                     "owner": "cedric56",
                     "repo": "Avae.Printables",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2490,7 +2646,8 @@
                     "owner": "cedric56",
                     "repo": "Avae.Printables.Docx",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2505,7 +2662,8 @@
                     "owner": "cedric56",
                     "repo": "Avae.Printables.Xps",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 }
               ],
               "description": null,
@@ -2527,7 +2685,8 @@
                     "owner": "mysteryx93",
                     "repo": "MediaPlayerUI.NET",
                     "stars": 169
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2542,7 +2701,8 @@
                     "owner": "MarcusWichelmann",
                     "repo": "MarcusW.VncClient",
                     "stars": 124
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2557,7 +2717,8 @@
                     "owner": "AvaloniaUI",
                     "repo": "Avalonia.GIF",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2572,7 +2733,8 @@
                     "owner": "WangsYi",
                     "repo": "ffme.avalonia",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2587,7 +2749,8 @@
                     "owner": "SaverinOnRails",
                     "repo": "Mpv.Avalonia",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 }
               ],
               "description": null,
@@ -2608,8 +2771,9 @@
                     "last_commit": "2026-08-20T20:43:33Z",
                     "owner": "sn4k3",
                     "repo": "UVtools",
-                    "stars": 1612
-                  }
+                    "stars": 1613
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2623,8 +2787,9 @@
                     "last_commit": "2026-08-22T17:37:48Z",
                     "owner": "amwx",
                     "repo": "FluentAvalonia",
-                    "stars": 1591
-                  }
+                    "stars": 1592
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2635,11 +2800,12 @@
                     "archived": false,
                     "id": 595221457,
                     "language": "C#",
-                    "last_commit": "2026-08-27T13:42:54Z",
+                    "last_commit": "2026-08-28T08:18:44Z",
                     "owner": "irihitech",
                     "repo": "Ursa.Avalonia",
-                    "stars": 1555
-                  }
+                    "stars": 1556
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2650,11 +2816,12 @@
                     "archived": false,
                     "id": 89069592,
                     "language": "C#",
-                    "last_commit": "2026-06-05T07:54:45Z",
+                    "last_commit": "2026-08-28T11:43:15Z",
                     "owner": "AvaloniaUI",
                     "repo": "AvaloniaEdit",
                     "stars": 1124
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2665,11 +2832,12 @@
                     "archived": false,
                     "id": 800766731,
                     "language": "C#",
-                    "last_commit": "2026-08-26T09:52:12Z",
+                    "last_commit": "2026-08-28T07:54:17Z",
                     "owner": "AtomUI",
                     "repo": "AtomUI",
                     "stars": 825
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2683,8 +2851,9 @@
                     "last_commit": "2024-12-18T16:40:39Z",
                     "owner": "PieroCastillo",
                     "repo": "Aura.UI",
-                    "stars": 724
-                  }
+                    "stars": 725
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2699,7 +2868,8 @@
                     "owner": "AvaloniaCommunity",
                     "repo": "MessageBox.Avalonia",
                     "stars": 596
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2714,7 +2884,8 @@
                     "owner": "judero01col",
                     "repo": "GMap.NET",
                     "stars": 510
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2728,8 +2899,9 @@
                     "last_commit": "2026-08-19T21:30:58Z",
                     "owner": "wieslawsoltes",
                     "repo": "PanAndZoom",
-                    "stars": 478
-                  }
+                    "stars": 479
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2744,7 +2916,8 @@
                     "owner": "Actipro",
                     "repo": "Avalonia-Controls",
                     "stars": 464
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2759,7 +2932,8 @@
                     "owner": "AvaloniaUtils",
                     "repo": "DialogHost.Avalonia",
                     "stars": 368
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2774,7 +2948,8 @@
                     "owner": "Oaz",
                     "repo": "AvaloniaGraphControl",
                     "stars": 354
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2789,7 +2964,8 @@
                     "owner": "bodong1987",
                     "repo": "Avalonia.PropertyGrid",
                     "stars": 338
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2804,7 +2980,8 @@
                     "owner": "BAndysc",
                     "repo": "nodify-avalonia",
                     "stars": 306
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2819,7 +2996,8 @@
                     "owner": "mameolan",
                     "repo": "Avalonia.ExtendedToolkit",
                     "stars": 294
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2834,7 +3012,8 @@
                     "owner": "Deadpikle",
                     "repo": "AvaloniaProgressRing",
                     "stars": 292
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2849,7 +3028,8 @@
                     "owner": "Eremex",
                     "repo": "controls-demo",
                     "stars": 264
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2864,7 +3044,8 @@
                     "owner": "egorozh",
                     "repo": "Tabalonia",
                     "stars": 264
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2879,7 +3060,8 @@
                     "owner": "Maklith",
                     "repo": "NodifyM.Avalonia",
                     "stars": 221
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2894,7 +3076,8 @@
                     "owner": "CeSun",
                     "repo": "Aura3D",
                     "stars": 179
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2909,7 +3092,8 @@
                     "owner": "AvaloniaCommunity",
                     "repo": "Notification.Avalonia",
                     "stars": 174
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2924,7 +3108,8 @@
                     "owner": "AvaloniaUI",
                     "repo": "AvaloniaAutoGrid",
                     "stars": 135
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2935,11 +3120,12 @@
                     "archived": false,
                     "id": 1035406572,
                     "language": "C#",
-                    "last_commit": "2026-05-29T14:13:17Z",
+                    "last_commit": "2026-08-28T16:55:58Z",
                     "owner": "KaranocaVe",
                     "repo": "LiquidGlassAvaloniaUI",
                     "stars": 134
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2954,7 +3140,8 @@
                     "owner": "Washi1337",
                     "repo": "AvaloniaHex",
                     "stars": 133
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2969,7 +3156,8 @@
                     "owner": "Splitwirez",
                     "repo": "ribbon-for-avalonia",
                     "stars": 132
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2984,7 +3172,8 @@
                     "owner": "satial-interfaces",
                     "repo": "CalendarControl",
                     "stars": 123
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -2999,7 +3188,8 @@
                     "owner": "arklumpus",
                     "repo": "AvaloniaColorPicker",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3014,7 +3204,8 @@
                     "owner": "Nickelony",
                     "repo": "SpacedGrid-Avalonia",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3029,7 +3220,8 @@
                     "owner": "egorozh",
                     "repo": "Egorozh.ColorPicker",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3044,7 +3236,8 @@
                     "owner": "Onebeld",
                     "repo": "PleasantUI",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3059,7 +3252,8 @@
                     "owner": "AvaloniaUtils",
                     "repo": "HyperText.Avalonia",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3074,7 +3268,8 @@
                     "owner": "Roflyanochka",
                     "repo": "AvaloniaRipple",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3089,7 +3284,8 @@
                     "owner": "DmitryNizhebovsky",
                     "repo": "Avalonia.RangeSlider",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3104,7 +3300,8 @@
                     "owner": "SaverinOnRails",
                     "repo": "AvaloniaCalendarView",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3119,7 +3316,8 @@
                     "owner": "jamsoft",
                     "repo": "JamSoft.AvaloniaUI.Dialogs",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3134,7 +3332,8 @@
                     "owner": "Tulesha",
                     "repo": "ToolBarControls.Avalonia",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3149,7 +3348,8 @@
                     "owner": "AvaloniaUtils",
                     "repo": "Paginator.Avalonia",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3164,7 +3364,8 @@
                     "owner": "zhongzf",
                     "repo": "Xamarin.Forms.Platform.Avalonia",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3179,7 +3380,8 @@
                     "owner": "dotnet-campus",
                     "repo": "DotNetCampus.InkCanvas",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3194,7 +3396,8 @@
                     "owner": "MikD1",
                     "repo": "AvaloniaFixedWrapPanel",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3209,7 +3412,8 @@
                     "owner": "jp2masa",
                     "repo": "Movere",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3224,7 +3428,8 @@
                     "owner": "Egor92",
                     "repo": "MvvmNavigation",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3239,7 +3444,8 @@
                     "owner": "npolyak",
                     "repo": "NP.Avalonia.Visuals",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3254,7 +3460,8 @@
                     "owner": "lukewire129",
                     "repo": "navigationbar-avaloniaui",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3269,7 +3476,8 @@
                     "owner": "lukewire129",
                     "repo": "AvaloniaNavigationPage",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3284,7 +3492,8 @@
                     "owner": "jcsawyer",
                     "repo": "Jc.PopupView.Avalonia",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 },
                 {
                   "node_type": "item",
@@ -3299,7 +3508,8 @@
                     "owner": "Tulesha",
                     "repo": "KnobControl.Avalonia",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:28:47.926Z"
                 }
               ],
               "description": null,
@@ -3326,7 +3536,8 @@
                 "owner": "MrJul",
                 "repo": "Estragonia",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -3341,7 +3552,8 @@
                 "owner": "Kermalis",
                 "repo": "PokemonBattleEngine",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -3356,7 +3568,8 @@
                 "owner": "AvaloniaInside",
                 "repo": "AvaloniaInside.MonoGame",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -3371,7 +3584,8 @@
                 "owner": "kekekeks",
                 "repo": "Avalonia.BattleCity",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -3386,7 +3600,8 @@
                 "owner": "Macabresoft",
                 "repo": "Macabre2D",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -3401,7 +3616,8 @@
                 "owner": "IvanJosipovic",
                 "repo": "AvaloniaTetris",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -3423,7 +3639,8 @@
                 "owner": "OutSystems",
                 "repo": "WebView",
                 "stars": 596
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             },
             {
               "node_type": "item",
@@ -3438,7 +3655,8 @@
                 "owner": "OutSystems",
                 "repo": "CefGlue",
                 "stars": 457
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
             }
           ],
           "description": null,
@@ -3464,7 +3682,8 @@
             "owner": "linuxdevel",
             "repo": "Avalonia-skills",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3479,7 +3698,8 @@
             "owner": "LewisIsWorking",
             "repo": "ClaudeDesktopLauncher",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         }
       ],
       "title": "Artificial Intelligence"
@@ -3496,11 +3716,12 @@
             "archived": false,
             "id": 216883277,
             "language": "C#",
-            "last_commit": "2026-08-25T09:09:00Z",
+            "last_commit": "2026-08-27T22:12:43Z",
             "owner": "wieslawsoltes",
             "repo": "Svg.Skia",
-            "stars": 725
-          }
+            "stars": 726
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3515,7 +3736,8 @@
             "owner": "AvaloniaUI",
             "repo": "Citrus.Avalonia",
             "stars": 597
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3530,7 +3752,8 @@
             "owner": "ForNeVeR",
             "repo": "AvaloniaRider",
             "stars": 581
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3544,8 +3767,9 @@
             "last_commit": "2026-07-18T02:25:56Z",
             "owner": "Kira-NT",
             "repo": "HotAvalonia",
-            "stars": 517
-          }
+            "stars": 518
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3560,7 +3784,8 @@
             "owner": "AvaloniaUI",
             "repo": "Live.Avalonia",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3575,7 +3800,8 @@
             "owner": "kuiperzone",
             "repo": "AvantGarde",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3590,7 +3816,8 @@
             "owner": "kuiperzone",
             "repo": "PupNet-Deploy",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3605,7 +3832,8 @@
             "owner": "wieslawsoltes",
             "repo": "ColorPicker",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3620,7 +3848,8 @@
             "owner": "ahopper",
             "repo": "Avalonia.IconPacks",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3635,7 +3864,8 @@
             "owner": "wieslawsoltes",
             "repo": "ThemeManager.Avalonia",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3650,7 +3880,8 @@
             "owner": "jp2masa",
             "repo": "dotnet-properties",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3665,7 +3896,8 @@
             "owner": "rabbitism",
             "repo": "AvaloniaToolkit",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3680,7 +3912,8 @@
             "owner": "punker76",
             "repo": "MahApps.Avalonia.IconPacks.Testbed",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         },
         {
           "node_type": "item",
@@ -3695,7 +3928,8 @@
             "owner": "aboimpinto",
             "repo": "MaterialDesign.Avalonia",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         }
       ],
       "title": "Tooling"
@@ -3712,11 +3946,12 @@
             "archived": false,
             "id": 14964475,
             "language": "C#",
-            "last_commit": "2026-08-27T16:20:22Z",
+            "last_commit": "2026-08-28T16:47:43Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31400
-          }
+            "stars": 31409
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         }
       ],
       "title": "Community"
@@ -3737,14 +3972,15 @@
             "owner": "LauZyHou",
             "repo": "sbid-ava",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T17:28:47.926Z"
         }
       ],
       "title": "Other Languages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:33:53.883Z",
+    "last_updated": "2026-08-28T17:28:47.926Z",
     "original_repository_info": {
       "archived": false,
       "id": 237631278,
