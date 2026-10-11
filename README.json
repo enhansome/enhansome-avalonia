@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-09T18:17:27Z",
-            "open_issues": 1928,
+            "open_issues": 1933,
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31635,
+            "stars": 31645,
             "topics": [
               "android",
               "app-framework",
@@ -61,7 +61,7 @@
             "open_issues": 8,
             "owner": "AvaloniaUI",
             "repo": "Avalonia.Templates",
-            "stars": 671,
+            "stars": 672,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:47.926Z"
@@ -108,10 +108,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-09T12:24:40Z",
-                "open_issues": 145,
+                "open_issues": 148,
                 "owner": "openutau",
                 "repo": "OpenUtau",
-                "stars": 4391,
+                "stars": 4398,
                 "topics": [
                   "music",
                   "openutau",
@@ -701,7 +701,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-09T18:10:40Z",
-                "open_issues": 327,
+                "open_issues": 346,
                 "owner": "WalletWasabi",
                 "repo": "WalletWasabi",
                 "stars": 2621,
@@ -835,7 +835,7 @@
                 "id": 587816508,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-08T11:59:28Z",
+                "last_commit": "2026-10-11T11:23:22Z",
                 "open_issues": 3,
                 "owner": "d3ara1n",
                 "repo": "Polymerium",
@@ -1061,11 +1061,11 @@
                 "id": 79786795,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T19:55:33Z",
+                "last_commit": "2026-10-11T11:06:11Z",
                 "open_issues": 47,
                 "owner": "Ruben2776",
                 "repo": "PicView",
-                "stars": 3636,
+                "stars": 3640,
                 "topics": [
                   "avalonia",
                   "batch-processing",
@@ -1100,8 +1100,8 @@
                 "id": 307580320,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-10T11:12:43Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-11T11:18:46Z",
+                "open_issues": 109,
                 "owner": "b-editor",
                 "repo": "beutl",
                 "stars": 1243,
@@ -1166,7 +1166,7 @@
                 "open_issues": 10,
                 "owner": "carina-studio",
                 "repo": "PixelViewer",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -1361,11 +1361,11 @@
                 "id": 971243074,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T06:19:43Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-11T06:35:56Z",
+                "open_issues": 28,
                 "owner": "Sylinko",
                 "repo": "Everywhere",
-                "stars": 6306,
+                "stars": 6308,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -1511,7 +1511,7 @@
                 "open_issues": 0,
                 "owner": "hoyho",
                 "repo": "iTimeSlot",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.926Z"
@@ -1557,10 +1557,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-10T09:12:02Z",
-                "open_issues": 191,
+                "open_issues": 193,
                 "owner": "sourcegit-scm",
                 "repo": "sourcegit",
-                "stars": 6117,
+                "stars": 6122,
                 "topics": [
                   "cross-platform",
                   "git",
@@ -1615,7 +1615,7 @@
                 "open_issues": 49,
                 "owner": "icsharpcode",
                 "repo": "AvaloniaILSpy",
-                "stars": 1811,
+                "stars": 1810,
                 "topics": [
                   "avalonia",
                   "decompiler",
@@ -2169,11 +2169,11 @@
                 "id": 1129876754,
                 "language": "Zig",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T09:48:26Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-11T05:02:00Z",
+                "open_issues": 51,
                 "owner": "Seafoam-Labs",
                 "repo": "Shelly-ALPM",
-                "stars": 1184,
+                "stars": 1185,
                 "topics": [
                   "archlinux",
                   "archlinux-community",
@@ -2245,11 +2245,11 @@
                 "id": 180503555,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-10T09:45:06Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-11T04:30:42Z",
+                "open_issues": 11,
                 "owner": "IvanJosipovic",
                 "repo": "KubeUI",
-                "stars": 327,
+                "stars": 326,
                 "topics": [
                   "avalonia",
                   "dashboard",
@@ -2281,7 +2281,7 @@
                 "open_issues": 0,
                 "owner": "afunc233",
                 "repo": "Komiic",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "avalonia",
                   "avaloniaui",
@@ -2306,7 +2306,7 @@
                 "open_issues": 2,
                 "owner": "dan0v",
                 "repo": "xdelta3-cross-gui",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "avalonia",
                   "avaloniaui",
@@ -2522,7 +2522,7 @@
             "open_issues": 32,
             "owner": "AvaloniaUI",
             "repo": "Avalonia.Samples",
-            "stars": 1164,
+            "stars": 1166,
             "topics": [
               "avalonia",
               "avaloniaui",
@@ -3069,7 +3069,7 @@
                 "open_issues": 4,
                 "owner": "Voyonic-Systems",
                 "repo": "Echoes",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "avalonia",
                   "avaloniaui",
@@ -3102,7 +3102,7 @@
                 "open_issues": 37,
                 "owner": "kikipoulet",
                 "repo": "SukiUI",
-                "stars": 2684,
+                "stars": 2685,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.926Z"
@@ -3119,7 +3119,7 @@
                 "id": 561788386,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T16:02:54Z",
+                "last_commit": "2026-10-10T12:27:05Z",
                 "open_issues": 33,
                 "owner": "irihitech",
                 "repo": "Semi.Avalonia",
@@ -3151,7 +3151,7 @@
                 "open_issues": 20,
                 "owner": "AvaloniaCommunity",
                 "repo": "Material.Avalonia",
-                "stars": 1163,
+                "stars": 1164,
                 "topics": [
                   "avalonia",
                   "avaloniaui",
@@ -3180,7 +3180,7 @@
                 "open_issues": 5,
                 "owner": "accntech",
                 "repo": "shad-ui",
-                "stars": 562,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.926Z"
@@ -3309,7 +3309,7 @@
                 "open_issues": 6,
                 "owner": "kikipoulet",
                 "repo": "CherylUI",
-                "stars": 353,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.926Z"
@@ -3383,7 +3383,7 @@
                 "open_issues": 1,
                 "owner": "Splitwirez",
                 "repo": "aero-theme-for-avalonia",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.926Z"
@@ -3404,7 +3404,7 @@
                 "open_issues": 2,
                 "owner": "MahApps",
                 "repo": "IconPacks.Avalonia",
-                "stars": 203,
+                "stars": 205,
                 "topics": [
                   "avalonia",
                   "avalonia-ui",
@@ -3547,7 +3547,7 @@
                 "id": 901544852,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-04T10:20:34Z",
+                "last_commit": "2026-10-11T10:28:32Z",
                 "open_issues": 1,
                 "owner": "dme-compunet",
                 "repo": "Lucide.Avalonia",
@@ -3711,7 +3711,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-27T16:53:47Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "AvaloniaCommunity",
                 "repo": "Avalonia.Markup.Declarative",
                 "stars": 505,
@@ -3774,7 +3774,7 @@
                 "open_issues": 5,
                 "owner": "kekyo",
                 "repo": "Epoxy",
-                "stars": 265,
+                "stars": 266,
                 "topics": [
                   "async",
                   "avaloniaui",
@@ -4216,11 +4216,11 @@
                     "id": 134182879,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T09:03:54Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-10-11T10:53:41Z",
+                    "open_issues": 8,
                     "owner": "wieslawsoltes",
                     "repo": "Dock",
-                    "stars": 1489,
+                    "stars": 1488,
                     "topics": [
                       "avalonia",
                       "avaloniaui",
@@ -4330,7 +4330,7 @@
                     "open_issues": 0,
                     "owner": "DearVa",
                     "repo": "LiveMarkdown.Avalonia",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": [
                       "ai",
                       "avalonia",
@@ -4649,7 +4649,7 @@
                     "open_issues": 42,
                     "owner": "amwx",
                     "repo": "FluentAvalonia",
-                    "stars": 1609,
+                    "stars": 1610,
                     "topics": [
                       "avalonia",
                       "avaloniaui",
@@ -4707,7 +4707,7 @@
                     "open_issues": 92,
                     "owner": "AvaloniaUI",
                     "repo": "AvaloniaEdit",
-                    "stars": 1136,
+                    "stars": 1137,
                     "topics": [
                       "avalonia",
                       "code-editor",
@@ -4730,7 +4730,7 @@
                     "id": 800766731,
                     "language": "C#",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-10-10T01:14:47Z",
+                    "last_commit": "2026-10-11T00:24:14Z",
                     "open_issues": 7,
                     "owner": "AtomUI",
                     "repo": "AtomUI",
@@ -4801,7 +4801,7 @@
                     "open_issues": 24,
                     "owner": "AvaloniaCommunity",
                     "repo": "MessageBox.Avalonia",
-                    "stars": 595,
+                    "stars": 596,
                     "topics": [
                       "avalonia",
                       "avaloniaui",
@@ -4990,7 +4990,7 @@
                     "open_issues": 12,
                     "owner": "BAndysc",
                     "repo": "nodify-avalonia",
-                    "stars": 310,
+                    "stars": 309,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:28:47.926Z"
@@ -5011,7 +5011,7 @@
                     "open_issues": 39,
                     "owner": "mameolan",
                     "repo": "Avalonia.ExtendedToolkit",
-                    "stars": 294,
+                    "stars": 295,
                     "topics": [
                       "avalonia",
                       "csharp",
@@ -5160,7 +5160,7 @@
                     "open_issues": 1,
                     "owner": "AvaloniaCommunity",
                     "repo": "Notification.Avalonia",
-                    "stars": 173,
+                    "stars": 174,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:28:47.926Z"
@@ -6090,7 +6090,7 @@
             "open_issues": 0,
             "owner": "linuxdevel",
             "repo": "Avalonia-skills",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T17:28:47.926Z"
@@ -6413,7 +6413,7 @@
             "open_issues": 1,
             "owner": "wieslawsoltes",
             "repo": "ThemeManager.Avalonia",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "avalonia",
               "avaloniaui",
@@ -6552,10 +6552,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-09T18:17:27Z",
-            "open_issues": 1928,
+            "open_issues": 1933,
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31635,
+            "stars": 31645,
             "topics": [
               "android",
               "app-framework",
@@ -6622,7 +6622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:13:51.943Z",
+    "last_updated": "2026-10-11T11:27:20.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries and tools for Avalonia project.",
@@ -6634,7 +6634,7 @@
       "open_issues": 55,
       "owner": "AvaloniaCommunity",
       "repo": "awesome-avalonia",
-      "stars": 3243,
+      "stars": 3245,
       "topics": [
         "avalonia",
         "avaloniaui",
