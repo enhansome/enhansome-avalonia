@@ -15,11 +15,11 @@
             "id": 14964475,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T21:05:40Z",
-            "open_issues": 1943,
+            "last_commit": "2026-10-31T18:19:01Z",
+            "open_issues": 1951,
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31735,
+            "stars": 31740,
             "topics": [
               "android",
               "app-framework",
@@ -108,10 +108,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-30T12:20:14Z",
-                "open_issues": 142,
+                "open_issues": 145,
                 "owner": "openutau",
                 "repo": "OpenUtau",
-                "stars": 4495,
+                "stars": 4501,
                 "topics": [
                   "music",
                   "openutau",
@@ -142,7 +142,7 @@
                 "open_issues": 22,
                 "owner": "mat1jaczyyy",
                 "repo": "apollo-studio",
-                "stars": 227,
+                "stars": 226,
                 "topics": [
                   "avalonia",
                   "avaloniaui",
@@ -700,8 +700,8 @@
                 "id": 55341469,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-30T18:16:48Z",
-                "open_issues": 356,
+                "last_commit": "2026-11-01T09:21:29Z",
+                "open_issues": 357,
                 "owner": "WalletWasabi",
                 "repo": "WalletWasabi",
                 "stars": 2636,
@@ -798,6 +798,33 @@
             },
             {
               "node_type": "item",
+              "title": "BuildLauncher",
+              "description": "Launcher and mods downloader for Build Engine games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "BuildLauncher is THE frontend for Build Engine games",
+                "homepage": null,
+                "id": 734835949,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-22T12:39:51Z",
+                "open_issues": 6,
+                "owner": "fgsfds",
+                "repo": "BuildLauncher",
+                "stars": 125,
+                "topics": [
+                  "blood",
+                  "build-engine",
+                  "dukenukem-3d",
+                  "retrogaming",
+                  "shadow-warrior"
+                ]
+              },
+              "first_seen": "2026-08-28T17:28:47.926Z"
+            },
+            {
+              "node_type": "item",
               "title": "Polymerium",
               "description": "A Minecraft launcher that thinks differently about game management.",
               "children": [],
@@ -826,33 +853,6 @@
                   "modrinth",
                   "quilt",
                   "xaml"
-                ]
-              },
-              "first_seen": "2026-08-28T17:28:47.926Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BuildLauncher",
-              "description": "Launcher and mods downloader for Build Engine games.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "BuildLauncher is THE frontend for Build Engine games",
-                "homepage": null,
-                "id": 734835949,
-                "language": "C#",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-22T12:39:51Z",
-                "open_issues": 6,
-                "owner": "fgsfds",
-                "repo": "BuildLauncher",
-                "stars": 124,
-                "topics": [
-                  "blood",
-                  "build-engine",
-                  "dukenukem-3d",
-                  "retrogaming",
-                  "shadow-warrior"
                 ]
               },
               "first_seen": "2026-08-28T17:28:47.926Z"
@@ -1061,11 +1061,11 @@
                 "id": 79786795,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T16:27:06Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-01T00:00:44Z",
+                "open_issues": 46,
                 "owner": "Ruben2776",
                 "repo": "PicView",
-                "stars": 3708,
+                "stars": 3717,
                 "topics": [
                   "avalonia",
                   "batch-processing",
@@ -1100,8 +1100,8 @@
                 "id": 307580320,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-31T10:46:17Z",
-                "open_issues": 126,
+                "last_commit": "2026-11-01T10:50:10Z",
+                "open_issues": 130,
                 "owner": "b-editor",
                 "repo": "beutl",
                 "stars": 1249,
@@ -1162,7 +1162,7 @@
                 "id": 366943781,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-30T12:16:19Z",
+                "last_commit": "2026-11-01T05:06:31Z",
                 "open_issues": 8,
                 "owner": "carina-studio",
                 "repo": "PixelViewer",
@@ -1365,7 +1365,7 @@
                 "open_issues": 29,
                 "owner": "Sylinko",
                 "repo": "Everywhere",
-                "stars": 6341,
+                "stars": 6342,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -1403,7 +1403,7 @@
                 "open_issues": 40,
                 "owner": "SnapXL",
                 "repo": "SnapX",
-                "stars": 1065,
+                "stars": 1064,
                 "topics": [
                   "avalonia",
                   "csharp",
@@ -1557,10 +1557,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-30T08:44:12Z",
-                "open_issues": 230,
+                "open_issues": 232,
                 "owner": "sourcegit-scm",
                 "repo": "sourcegit",
-                "stars": 6306,
+                "stars": 6317,
                 "topics": [
                   "cross-platform",
                   "git",
@@ -1615,7 +1615,7 @@
                 "open_issues": 48,
                 "owner": "icsharpcode",
                 "repo": "AvaloniaILSpy",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "avalonia",
                   "decompiler",
@@ -2174,11 +2174,11 @@
                 "id": 1129876754,
                 "language": "Zig",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T21:32:58Z",
+                "last_commit": "2026-11-01T03:34:40Z",
                 "open_issues": 64,
                 "owner": "Seafoam-Labs",
                 "repo": "Shelly-ALPM",
-                "stars": 1243,
+                "stars": 1244,
                 "topics": [
                   "archlinux",
                   "archlinux-community",
@@ -2527,7 +2527,7 @@
             "open_issues": 32,
             "owner": "AvaloniaUI",
             "repo": "Avalonia.Samples",
-            "stars": 1169,
+            "stars": 1170,
             "topics": [
               "avalonia",
               "avaloniaui",
@@ -3107,7 +3107,7 @@
                 "open_issues": 38,
                 "owner": "kikipoulet",
                 "repo": "SukiUI",
-                "stars": 2696,
+                "stars": 2695,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.926Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 5,
                 "owner": "accntech",
                 "repo": "shad-ui",
-                "stars": 569,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.926Z"
@@ -3445,7 +3445,7 @@
                 "open_issues": 2,
                 "owner": "MarwanFr",
                 "repo": "LucideAvaloniaUI",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "avalonia",
                   "avaloniaui",
@@ -3552,7 +3552,7 @@
                 "id": 901544852,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-25T08:51:48Z",
+                "last_commit": "2026-11-01T10:56:55Z",
                 "open_issues": 1,
                 "owner": "dme-compunet",
                 "repo": "Lucide.Avalonia",
@@ -3689,7 +3689,7 @@
                 "open_issues": 17,
                 "owner": "fsprojects",
                 "repo": "Avalonia.FuncUI",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": [
                   "avalonia",
                   "avaloniaui",
@@ -4021,7 +4021,7 @@
                 "open_issues": 248,
                 "owner": "ScottPlot",
                 "repo": "ScottPlot",
-                "stars": 6791,
+                "stars": 6792,
                 "topics": [
                   "chart",
                   "charting",
@@ -4053,7 +4053,7 @@
                 "open_issues": 70,
                 "owner": "Live-Charts",
                 "repo": "LiveCharts2",
-                "stars": 5504,
+                "stars": 5505,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.926Z"
@@ -4225,7 +4225,7 @@
                     "open_issues": 3,
                     "owner": "wieslawsoltes",
                     "repo": "Dock",
-                    "stars": 1490,
+                    "stars": 1491,
                     "topics": [
                       "avalonia",
                       "avaloniaui",
@@ -4735,8 +4735,8 @@
                     "id": 800766731,
                     "language": "C#",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-10-31T05:26:21Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-11-01T11:28:55Z",
+                    "open_issues": 13,
                     "owner": "AtomUI",
                     "repo": "AtomUI",
                     "stars": 899,
@@ -5850,7 +5850,7 @@
                 "open_issues": 13,
                 "owner": "MrJul",
                 "repo": "Estragonia",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "avalonia",
                   "gamedev",
@@ -6205,8 +6205,8 @@
             "id": 154947241,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-10-31T02:59:48Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-31T16:11:31Z",
+            "open_issues": 36,
             "owner": "ForNeVeR",
             "repo": "AvaloniaRider",
             "stars": 589,
@@ -6556,11 +6556,11 @@
             "id": 14964475,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T21:05:40Z",
-            "open_issues": 1943,
+            "last_commit": "2026-10-31T18:19:01Z",
+            "open_issues": 1951,
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31735,
+            "stars": 31740,
             "topics": [
               "android",
               "app-framework",
@@ -6627,7 +6627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:58:27.825Z",
+    "last_updated": "2026-11-01T11:53:39.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting libraries and tools for Avalonia project.",
