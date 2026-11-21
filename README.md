@@ -1,6 +1,6 @@
 # Awesome-Avalonia with stars
 
-[Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 31,850 | 🐛 2,022 | 🌐 C# | 📅 2026-11-20 is a cross-platform XAML Framework for the .NET ecosystem.
+[Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 31,853 | 🐛 2,018 | 🌐 C# | 📅 2026-11-21 is a cross-platform XAML Framework for the .NET ecosystem.
 
 [<img src="https://avatars2.githubusercontent.com/u/14075148?s=200&v=4" align="right" width="100">](https://avaloniaui.net/)
 
@@ -52,7 +52,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ## General
 
-* [Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 31,850 | 🐛 2,022 | 🌐 C# | 📅 2026-11-20 - Avalonia source code.
+* [Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 31,853 | 🐛 2,018 | 🌐 C# | 📅 2026-11-21 - Avalonia source code.
 * [Avalonia Dotnet Template](https://github.com/AvaloniaUI/avalonia-dotnet-templates) ⭐ 675 | 🐛 7 | 🌐 C# | 📅 2026-11-09 - Avalonia Templates for `dotnet new`.
 * [AvaloniaVS](https://github.com/AvaloniaUI/AvaloniaVS) ⚠️ Archived - Visual Studio Extension for Avalonia.
 
@@ -60,7 +60,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Audio and Music
 
-* [OpenUTAU](https://github.com/stakira/OpenUtau) ⭐ 4,623 | 🐛 168 | 🌐 C# | 📅 2026-11-16 - A cross-platform singing synthesis platform.
+* [OpenUTAU](https://github.com/stakira/OpenUtau) ⭐ 4,631 | 🐛 170 | 🌐 C# | 📅 2026-11-16 - A cross-platform singing synthesis platform.
 * [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) ⭐ 228 | 🐛 22 | 🌐 C# | 📅 2026-09-12 - Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.
 * [432hz Batch Converter](https://github.com/mysteryx93/HanumanInstituteApps/wiki/432hz-Batch-Converter) ⭐ 181 | 🐛 22 | 🌐 Shell | 📅 2026-09-14 - Converts and re-encodes music to 432hz.
 * [432hz Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/432hz-Player) ⭐ 181 | 🐛 22 | 🌐 Shell | 📅 2026-09-14 - Plays music in 432hz.
@@ -88,23 +88,23 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Data Transfer
 
-* [Camelotia](https://github.com/reactiveui/Camelotia) ⭐ 615 | 🐛 11 | 🌐 C# | 📅 2026-11-20 - Cross-platform demo file manager for cloud storage.
+* [Camelotia](https://github.com/reactiveui/Camelotia) ⭐ 615 | 🐛 11 | 🌐 C# | 📅 2026-11-21 - Cross-platform demo file manager for cloud storage.
 * [Jaya](https://github.com/waliarubal/Jaya) ⭐ 434 | 🐛 32 | 🌐 C# | 📅 2024-03-26 - Cross-platform file explorer application for Windows, Linux, and macOS operating systems.
 * [Purple Explorer](https://github.com/telstrapurple/PurpleExplorer) - A cross-platform desktop application to manage messages in Azure service bus and queue.
 
 ### Finance
 
-* [WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) ⭐ 2,637 | 🐛 349 | 🌐 C# | 📅 2026-11-19 - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and macOS. Built-in Tor, CoinJoin, and coin control features.
+* [WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) ⭐ 2,637 | 🐛 353 | 🌐 C# | 📅 2026-11-19 - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and macOS. Built-in Tor, CoinJoin, and coin control features.
 * [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) ⭐ 50 | 🐛 0 | 🌐 C# | 📅 2023-09-18 - Simple wallet cross-platform using Avalonia UI.
 * [Monetria](https://github.com/joaovitored/Monetria) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2026-02-15 -  A simple personal finance management
 
 ### Gaming
 
 * [Steam Superheater](https://github.com/fgsfds/Steam-Superheater) ⭐ 182 | 🐛 5 | 🌐 C# | 📅 2026-11-06 - Fixes downloader for Steam games.
+* [Polymerium](https://github.com/d3ara1n/Polymerium) ⭐ 130 | 🐛 0 | 🌐 C# | 📅 2026-11-07 - A Minecraft launcher that thinks differently about game management.
 * [BuildLauncher](https://github.com/fgsfds/BuildLauncher) ⭐ 129 | 🐛 6 | 🌐 C# | 📅 2026-11-12 - Launcher and mods downloader for Build Engine games.
-* [Polymerium](https://github.com/d3ara1n/Polymerium) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-11-07 - A Minecraft launcher that thinks differently about game management.
 * [MzingaViewer](https://github.com/jonthysell/Mzinga) ⭐ 107 | 🐛 27 | 🌐 C# | 📅 2025-05-21 - Cross-platform UI for playing the board game Hive against compatible AIs.
-* [VRCFaceTracking.Avalonia](https://github.com/dfgHiatus/VRCFaceTracking.Avalonia) ⭐ 102 | 🐛 13 | 🌐 C# | 📅 2026-10-20 - A cross-platform Avalonia re-make of [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) ⭐ 917 | 🐛 54 | 🌐 C# | 📅 2026-11-13.
+* [VRCFaceTracking.Avalonia](https://github.com/dfgHiatus/VRCFaceTracking.Avalonia) ⭐ 102 | 🐛 13 | 🌐 C# | 📅 2026-10-20 - A cross-platform Avalonia re-make of [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) ⭐ 917 | 🐛 53 | 🌐 C# | 📅 2026-11-13.
 * [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) ⭐ 94 | 🐛 33 | 🌐 C# | 📅 2026-08-22 - Build and run custom routes in Zwift the virtual cycling world.
 * [ColorMC](https://github.com/Coloryr/ColorMC) ⭐ 43 | 🐛 2 | 🌐 C# | 📅 2026-10-12 - A Minecraft Launcher.
 * [AvaloniaNES](https://github.com/wky214269273/AvaloniaNES) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2025-12-05 - A NES emulator built with Avalonia.
@@ -114,11 +114,11 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Graphics
 
-* [PicView](https://github.com/Ruben2776/PicView) ⭐ 3,799 | 🐛 47 | 🌐 C# | 📅 2026-11-20 - Fast, free and customizable image viewer for Windows 10 and 11.
-* [Beutl](https://github.com/b-editor/beutl) ⭐ 1,248 | 🐛 88 | 🌐 C# | 📅 2026-11-20 - Cross-platform video editing (compositing) software.
+* [PicView](https://github.com/Ruben2776/PicView) ⭐ 3,801 | 🐛 47 | 🌐 C# | 📅 2026-11-21 - Fast, free and customizable image viewer for Windows 10 and 11.
+* [Beutl](https://github.com/b-editor/beutl) ⭐ 1,248 | 🐛 80 | 🌐 C# | 📅 2026-11-21 - Cross-platform video editing (compositing) software.
 * [Core2D](https://github.com/wieslawsoltes/Core2D) ⭐ 1,186 | 🐛 1 | 🌐 C# | 📅 2026-09-27 - A multi-platform data driven 2D diagram editor.
-* [PixelViewer](https://github.com/carina-studio/PixelViewer) ⭐ 417 | 🐛 8 | 🌐 C# | 📅 2026-11-20 - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
-* [TreeViewer](https://github.com/arklumpus/TreeViewer) ⭐ 258 | 🐛 33 | 🌐 C# | 📅 2026-10-03 - Cross-platform software to draw phylogenetic trees.
+* [PixelViewer](https://github.com/carina-studio/PixelViewer) ⭐ 417 | 🐛 8 | 🌐 C# | 📅 2026-11-21 - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
+* [TreeViewer](https://github.com/arklumpus/TreeViewer) ⭐ 258 | 🐛 34 | 🌐 C# | 📅 2026-10-03 - Cross-platform software to draw phylogenetic trees.
 * [Lacmus](https://github.com/lacmus-foundation/lacmus-app) ⭐ 78 | 🐛 9 | 🌐 C# | 📅 2024-04-29 - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
 * [Xamlade](https://github.com/ComradeAkei/Xamlade) ⭐ 72 | 🐛 0 | 🌐 C# | 📅 2025-01-18 - Visual Avalonia UI XAML editor.
 * [CsGrafeq](https://github.com/jyswjjgdwtdtj/CsGrafeq) ⭐ 66 | 🐛 0 | 🌐 C# | 📅 2026-07-18 - A cross-platform geometry sketchpad and implicit function plotting tool.
@@ -126,8 +126,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Productivity
 
-* [Everywhere](https://github.com/DearVa/Everywhere) ⭐ 6,362 | 🐛 22 | 🌐 C# | 📅 2026-11-20 - Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.
-* [SnapX](https://github.com/SnapXL/SnapX) ⭐ 1,072 | 🐛 40 | 🌐 C# | 📅 2026-11-19 - A cross-platform productivity tool that can upload images, video, text, and files in general.
+* [Everywhere](https://github.com/DearVa/Everywhere) ⭐ 6,363 | 🐛 21 | 🌐 C# | 📅 2026-11-21 - Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.
+* [SnapX](https://github.com/SnapXL/SnapX) ⭐ 1,073 | 🐛 40 | 🌐 C# | 📅 2026-11-21 - A cross-platform productivity tool that can upload images, video, text, and files in general.
 * [Team Sketch](https://github.com/davidtimovski/team-sketch) ⭐ 48 | 🐛 0 | 🌐 C# | 📅 2025-01-24 - A cross-platform desktop application for collaborative drawing.
 * [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) ⭐ 32 | 🐛 0 | 🌐 C# | 📅 2022-05-10 - A cross-platform desktop application for managing notes.
 * [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2024-08-01 - An AI-powered flashcards generator.
@@ -136,16 +136,16 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Software Development
 
-* [SourceGit](https://github.com/sourcegit-scm/sourcegit) ⭐ 6,555 | 🐛 262 | 🌐 C# | 📅 2026-11-20 - A cross-platform Git desktop client.
-* [RoslynPad](https://github.com/aelij/RoslynPad) ⭐ 2,834 | 🐛 1 | 🌐 C# | 📅 2026-11-10 - A cross-platform C# editor based on Roslyn and AvalonEdit.
+* [SourceGit](https://github.com/sourcegit-scm/sourcegit) ⭐ 6,558 | 🐛 263 | 🌐 C# | 📅 2026-11-21 - A cross-platform Git desktop client.
+* [RoslynPad](https://github.com/aelij/RoslynPad) ⭐ 2,835 | 🐛 1 | 🌐 C# | 📅 2026-11-10 - A cross-platform C# editor based on Roslyn and AvalonEdit.
 * [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) ⚠️ Archived - Avalonia-based .NET Decompiler (port of ILSpy).
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) ⭐ 1,726 | 🐛 94 | 🌐 C# | 📅 2024-01-23 - Cross-platform IDE and Shell.
 * [UVtools](https://github.com/sn4k3/UVtools) ⭐ 1,659 | 🐛 11 | 🌐 C# | 📅 2026-11-19 - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
 * [FVim](https://github.com/yatli/fvim) ⭐ 1,403 | 🐛 70 | 🌐 F# | 📅 2024-10-17 - Cross-platform Neovim front-end UI, built with F# + Avalonia.
 * [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) ⚠️ Archived - A module that mixes PowerShell and GUIs!
-* [Pororoca](https://github.com/alexandrehtrb/Pororoca) ⭐ 671 | 🐛 32 | 🌐 C# | 📅 2026-11-19 - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
-* [ULogViewer](https://github.com/carina-studio/ULogViewer) ⭐ 599 | 🐛 22 | 🌐 C# | 📅 2026-11-19 - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
-* [Asv.Drones](https://github.com/asv-soft/asv-drones) ⭐ 226 | 🐛 0 | 🌐 C# | 📅 2026-11-13 - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads, and RTK base stations.
+* [Pororoca](https://github.com/alexandrehtrb/Pororoca) ⭐ 671 | 🐛 31 | 🌐 C# | 📅 2026-11-20 - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
+* [ULogViewer](https://github.com/carina-studio/ULogViewer) ⭐ 599 | 🐛 22 | 🌐 C# | 📅 2026-11-21 - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
+* [Asv.Drones](https://github.com/asv-soft/asv-drones) ⭐ 227 | 🐛 0 | 🌐 C# | 📅 2026-11-13 - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads, and RTK base stations.
 * [Radish](https://github.com/x2bool/radish) ⭐ 182 | 🐛 0 | 🌐 C# | 📅 2026-02-22 - Cross-platform desktop client designed exclusively for Redis.
 * [BlitzSearch](http://github.com/natestah/blitzSearch) ⭐ 160 | 🐛 14 | 🌐 C# | 📅 2026-04-23 - Windows, Find-in-Files Tool, an improved Find-in-files Experience for any IDE.
 * [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) ⭐ 122 | 🐛 2 | 🌐 C# | 📅 2026-04-14 - A Git GUI client designed to be simple with game studio collaboration in mind.
@@ -161,9 +161,9 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Other
 
-* [Shelly ALPM](https://github.com/ZoeyErinBauer/Shelly-ALPM) ⭐ 1,283 | 🐛 46 | 🌐 Zig | 📅 2026-11-20 - A Modern Package Management system for Arch Linux Distros.
+* [Shelly ALPM](https://github.com/ZoeyErinBauer/Shelly-ALPM) ⭐ 1,286 | 🐛 56 | 🌐 Zig | 📅 2026-11-21 - A Modern Package Management system for Arch Linux Distros.
 * [YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) ⭐ 396 | 🐛 26 | 🌐 C# | 📅 2025-11-13 - Open-source YouTube video downloader.
-* [KubeUI](https://github.com/IvanJosipovic/KubeUI) ⭐ 326 | 🐛 31 | 🌐 C# | 📅 2026-11-20 - Kubernetes User Interface.
+* [KubeUI](https://github.com/IvanJosipovic/KubeUI) ⭐ 326 | 🐛 30 | 🌐 C# | 📅 2026-11-21 - Kubernetes User Interface.
 * [Komiic](https://github.com/afunc233/Komiic) ⭐ 158 | 🐛 0 | 🌐 C# | 📅 2025-09-22 - A cross-platform client for [Komiic.com](https://komiic.com)
 * [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) ⭐ 148 | 🐛 2 | 🌐 C# | 📅 2026-09-23 - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and macOS.
 * [Let It Snow!](https://github.com/ptupitsyn/let-it-snow) ⭐ 127 | 🐛 1 | 🌐 C# | 📅 2024-04-15 - .NET Core Avalonia UI Snow Demo.
@@ -178,7 +178,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 * [Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) ⭐ 1,176 | 🐛 38 | 🌐 HTML | 📅 2026-11-18 - A collection of minimal samples and tutorials.
 * [Build Modern Cross-Platform Apps with .NET](https://github.com/mysteryx93/Modern.Net-Tutorial) ⭐ 213 | 🐛 1 | 📅 2023-07-09 - Covers all areas of development: Avalonia, Dependency Injection, MVVM, Unit Testing, Reactive, and Deployment.
-* [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) ⭐ 17 | 🐛 0 | 🌐 Objective-C | 📅 2021-03-03 - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) ⭐ 9,948 | 🐛 12 | 🌐 Objective-C | 📅 2026-11-20 library in Avalonia.
+* [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) ⭐ 17 | 🐛 0 | 🌐 Objective-C | 📅 2021-03-03 - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) ⭐ 9,951 | 🐛 12 | 🌐 Objective-C | 📅 2026-11-20 library in Avalonia.
 * [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2020-01-02 - AvaloniaUI IoT LED Bar sample.
 * [AngelMunoz - AvaFunc](https://dev.to/tunaxor/desktop-apps-with-avalonia-and-fsharp-4n21) - Desktop Apps with Avalonia and FSharp.
 * [Avalonia for WPF Developers](https://docs.avaloniaui.net/docs/next/get-started/wpf/) - Quick start for WPF developers.
@@ -201,11 +201,11 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 * [Lemon.Hosting.Avaloniaui](https://github.com/NeverMorewd/Hosting.Avaloniaui) ⭐ 67 | 🐛 2 | 🌐 C# | 📅 2026-05-04 - A lightweight module navigation framework built on top of the Microsoft Dependency Injection (MSDI) for AvaloniaUI.
 * [Sortable.Avalonia](https://github.com/russkyc/sortable-avalonia) ⭐ 62 | 🐛 2 | 🌐 C# | 📅 2026-11-04 - Animated drag-drop and sort-swap behavior attachments for Avalonia inspired by SortableJS
 * [Lemon.ModuleNavigation](https://github.com/NeverMorewd/Lemon.ModuleNavigation) ⚠️ Archived - .NET Generic Host support for Avaloniaui app.
-* [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) ⭐ 45 | 🐛 2 | 🌐 C# | 📅 2026-11-19 - Extends Verify to allow verification of Avalonia UIs using headless testing.
+* [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) ⭐ 45 | 🐛 2 | 🌐 C# | 📅 2026-11-20 - Extends Verify to allow verification of Avalonia UIs using headless testing.
 * [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) ⭐ 44 | 🐛 0 | 🌐 C# | 📅 2026-04-07 - A control that makes it easier to display the corresponding XAML at runtime.
 * [AsyncNavigation](https://github.com/NeverMorewd/AsyncNavigation) ⭐ 43 | 🐛 3 | 🌐 C# | 📅 2026-10-10 -  A lightweight asynchronous navigation framework based on Microsoft.Extensions.DependencyInjection.
 * [Peachpie.Avalonia](https://github.com/FibonacciFox/Peachpie.Avalonia) ⭐ 37 | 🐛 0 | 🌐 C# | 📅 2026-05-01 - Library that allows you to create cross-platform applications in PHP in the .NET environment using Avalonia UI.
-* [Jc.AdMob.Avalonia](https://github.com/jcsawyer/Jc.AdMob.Avalonia) ⭐ 29 | 🐛 3 | 🌐 C# | 📅 2026-11-19 - Library to bring AdMob advertisements to Avalonia mobile projects.
+* [Jc.AdMob.Avalonia](https://github.com/jcsawyer/Jc.AdMob.Avalonia) ⭐ 29 | 🐛 3 | 🌐 C# | 📅 2026-11-20 - Library to bring AdMob advertisements to Avalonia mobile projects.
 * [Avae.Windows.Essentials](https://github.com/cedric56/Avae.Windows.Essentials) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2026-10-28 - Port of Microsoft.Maui.Essentials for Windows.
 * [Avae.Linux.Essentials](https://github.com/cedric56/Avae.Linux.Essentials) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2026-10-28 - Port of Microsoft.Maui.Essentials for Linux.
 * [Avae.macOS.Essentials](https://github.com/cedric56/Avae.macOS.Essentials) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-10-28 - Port of Microsoft.Maui.Essentials for macOS.
@@ -218,10 +218,10 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Theme & Icons
 
-* [SukiUI](https://github.com/kikipoulet/SukiUI) ⭐ 2,715 | 🐛 40 | 🌐 C# | 📅 2026-11-17 - Avalonia UI Library with a flat design approach.
+* [SukiUI](https://github.com/kikipoulet/SukiUI) ⭐ 2,716 | 🐛 40 | 🌐 C# | 📅 2026-11-20 - Avalonia UI Library with a flat design approach.
 * [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) ⭐ 1,984 | 🐛 31 | 🌐 C# | 📅 2026-11-20 - Avalonia Theme inspired by Semi Design.
 * [Material Design](https://github.com/AvaloniaCommunity/Material.Avalonia) ⭐ 1,172 | 🐛 21 | 🌐 C# | 📅 2026-10-30 - Collection of styles to help you customize your Avalonia application theme with Material Design.
-* [ShadUI](https://github.com/accntech/shad-ui) ⭐ 581 | 🐛 5 | 🌐 C# | 📅 2026-07-19 - A modern, beautiful, and intuitive UI library inspired by [shadcn/ui](https://ui.shadcn.com/) and [Suki UI Library](https://kikipoulet.github.io/SukiUI/).
+* [ShadUI](https://github.com/accntech/shad-ui) ⭐ 582 | 🐛 5 | 🌐 C# | 📅 2026-07-19 - A modern, beautiful, and intuitive UI library inspired by [shadcn/ui](https://ui.shadcn.com/) and [Suki UI Library](https://kikipoulet.github.io/SukiUI/).
 * [WPFDarkTheme](https://github.com/AngryCarrot789/WPFDarkTheme) ⭐ 548 | 🐛 23 | 🌐 C# | 📅 2024-07-25 - A configurable compact soft dark theme for standard Avalonia and WPF controls.
 * [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) ⭐ 458 | 🐛 8 | 🌐 C# | 📅 2026-11-09 - Classic Windows 9x-like theme and controls for Avalonia.
 * [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) ⭐ 430 | 🐛 12 | 🌐 C# | 📅 2025-11-24 - A library to easily display icons in an Avalonia App.
@@ -234,7 +234,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 * [LucideAvaloniaUI](https://github.com/MarwanFr/LucideAvaloniaUI) ⭐ 116 | 🐛 2 | 🌐 C# | 📅 2026-08-12 - A library for AvaloniaUI that integrates Lucide icons into your Avalonia applications.
 * [HeroIcons.Avalonia](https://github.com/russkyc/heroicons-avalonia) ⭐ 108 | 🐛 0 | 🌐 C# | 📅 2026-04-19 - Hand crafted icons from [Heroicons](https://heroicons.com) made available to AvaloniaUI.
 * [Huskui.Avalonia](https://github.com/d3ara1n/Huskui.Avalonia) ⭐ 108 | 🐛 0 | 🌐 C# | 📅 2026-11-18 - A modern, elegant UI component library inspired by [ParkUI](https://park-ui.com/) and using the [Radix Colors](https://www.radix-ui.com/colors) palette.
-* [Devolutions Avalonia-Extensions](https://github.com/Devolutions/avalonia-extensions) ⭐ 86 | 🐛 2 | 🌐 C# | 📅 2026-11-19 - Avalonia Themes for a MacOS or DevExpress look.
+* [Devolutions Avalonia-Extensions](https://github.com/Devolutions/avalonia-extensions) ⭐ 86 | 🐛 2 | 🌐 C# | 📅 2026-11-20 - Avalonia Themes for a MacOS or DevExpress look.
 * [Lucide.Avalonia](https://github.com/dme-compunet/Lucide.Avalonia) ⭐ 70 | 🐛 1 | 🌐 C# | 📅 2026-11-15 - Implementation of the Lucide icon library for AvaloniaUI.
 * [Romzetron.Avalonia](https://github.com/Romzetron/Romzetron.Avalonia) ⭐ 67 | 🐛 6 | 🌐 C# | 📅 2026-07-05 - Avalonia Theme that supports light/dark modes and a variety of color themes.
 * [Pipboy.Avalonia](https://github.com/NeverMorewd/Pipboy.Avalonia) ⭐ 46 | 🐛 1 | 🌐 C# | 📅 2026-09-17 - A Fallout 4 Pip-Boy inspired theme library for Avalonia UI.
@@ -248,7 +248,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 * [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) ⭐ 408 | 🐛 10 | 🌐 C# | 📅 2026-11-15 - Prism framework support for Avalonia UI.
 * [Epoxy](https://github.com/kekyo/Epoxy) ⭐ 266 | 🐛 5 | 🌐 C# | 📅 2024-12-10 - Easy, simplicity, and minimalism multi-platform MVVM library.
 * [HanumanInstitute.MvvmDialogs.Avalonia](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs/) ⭐ 223 | 🐛 0 | 🌐 C# | 📅 2026-11-20 - Simplifies opening dialogs from a view model with MVVM.
-* [ReactiveMvvm](https://github.com/reactiveui/ReactiveMvvm) ⭐ 187 | 🐛 2 | 🌐 C# | 📅 2026-11-20 - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
+* [ReactiveMvvm](https://github.com/reactiveui/ReactiveMvvm) ⭐ 187 | 🐛 3 | 🌐 C# | 📅 2026-11-21 - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
 * [ReactiveHistory](https://github.com/wieslawsoltes/ReactiveHistory) ⚠️ Archived - Reactive undo/redo framework for .NET.
 * [Blazonia](https://github.com/Blazonia/Blazonia) ⭐ 143 | 🐛 4 | 🌐 C# | 📅 2026-10-26 - Blazor Bindings - Build native Avalonia apps with Blazor.
 * [ReactiveElmish.Avalonia](https://github.com/JordanMarr/ReactiveElmish.Avalonia) ⭐ 119 | 🐛 5 | 🌐 F# | 📅 2026-08-23 - MVU applications using F# and Avalonia (with XAML views).
@@ -259,7 +259,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ### Charts & Plots & Diagrams
 
 * [ScottPlot](https://github.com/ScottPlot/ScottPlot) ⭐ 6,804 | 🐛 255 | 🌐 C# | 📅 2026-08-15 - Interactive Plotting Library for .NET.
-* [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) ⭐ 5,511 | 🐛 52 | 🌐 C# | 📅 2026-11-19 - Simple, flexible, interactive & powerful charts, maps and gauges for .NET.
+* [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) ⭐ 5,512 | 🐛 52 | 🌐 C# | 📅 2026-11-19 - Simple, flexible, interactive & powerful charts, maps and gauges for .NET.
 * [OxyPlot](https://github.com/oxyplot/oxyplot-avalonia) ⭐ 366 | 🐛 21 | 🌐 C# | 📅 2026-10-25 - A cross-platform plotting library for .NET.
 * [Microcharts](https://github.com/AvaloniaCommunity/Avalonia.Microcharts) ⭐ 195 | 🐛 4 | 🌐 C# | 📅 2023-09-21 - A simple Avalonia only port of the Microcharts library.
 * [GoDiagram](https://github.com/NorthwoodsSoftware/GoDiagram) ⭐ 139 | 🐛 0 | 🌐 C# | 📅 2026-11-10 - A .NET library for rapidly building interactive diagrams.
@@ -270,7 +270,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 #### Docking Layout
 
-* [Dock](https://github.com/wieslawsoltes/Dock) ⭐ 1,498 | 🐛 6 | 🌐 C# | 📅 2026-11-06 - A docking layout system.
+* [Dock](https://github.com/wieslawsoltes/Dock) ⭐ 1,498 | 🐛 7 | 🌐 C# | 📅 2026-11-06 - A docking layout system.
 * [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) ⭐ 170 | 🐛 8 | 🌐 C# | 📅 2024-01-02 - Simple VS2022-like window and view docking.
 * [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) ⭐ 170 | 🐛 8 | 🌐 C# | 📅 2024-01-02 - A docking layout system.
 
@@ -301,9 +301,9 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 * [FluentAvalonia](https://github.com/amwx/FluentAvalonia) ⭐ 1,627 | 🐛 42 | 🌐 C# | 📅 2026-08-22 - Fluent Design and WinUi Controls.
 * [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) ⭐ 1,593 | 🐛 120 | 🌐 C# | 📅 2026-11-20 - Ursa is a UI library for building cross-platform UIs with Avalonia UI.
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) ⭐ 1,149 | 🐛 92 | 🌐 C# | 📅 2026-11-09 - This is a port of AvalonEdit for Avalonia.
-* [AtomUI](https://github.com/chinware/AtomUI) ⭐ 919 | 🐛 10 | 🌐 C# | 📅 2026-11-19 - AtomUI is an implementation of Ant Design based on Avalonia/.NET technology, and is committed to bringing Ant Design's excellent and efficient design language and experience to the Avalonia/.NET cross-platform desktop software development field.
+* [AtomUI](https://github.com/chinware/AtomUI) ⭐ 920 | 🐛 10 | 🌐 C# | 📅 2026-11-21 - AtomUI is an implementation of Ant Design based on Avalonia/.NET technology, and is committed to bringing Ant Design's excellent and efficient design language and experience to the Avalonia/.NET cross-platform desktop software development field.
 * [Aura.UI](https://github.com/PieroCastillo/Aura.UI) ⭐ 726 | 🐛 13 | 🌐 C# | 📅 2024-12-18 - A Library with a lot of Controls for AvaloniaUI.
-* [MessageBox.Avalonia](https://github.com/AvaloniaCommunity/MessageBox.Avalonia) ⭐ 599 | 🐛 0 | 🌐 C# | 📅 2026-10-26 - Message Box UI for Avalonia UI.
+* [MessageBox.Avalonia](https://github.com/AvaloniaCommunity/MessageBox.Avalonia) ⭐ 599 | 🐛 1 | 🌐 C# | 📅 2026-10-26 - Message Box UI for Avalonia UI.
 * [GMap.NET](https://github.com/judero01col/GMap.NET) ⭐ 517 | 🐛 123 | 🌐 C# | 📅 2024-06-25 - GMap.NET Allows the use of routing, geocoding, directions and maps from Google, Yahoo!, Bing, OpenStreetMap, ArcGIS, Pergo, SigPac, Yendux, Mapy.cz, Maps.lt, iKarte.lv, NearMap, HereMap, CloudMade, WikiMapia, MapQuest, and many more.
 * [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) ⭐ 481 | 🐛 3 | 🌐 C# | 📅 2026-10-26 - Pan and zoom control for WPF and Avalonia.
 * [Actipro Avalonia UI Controls](https://github.com/Actipro/Avalonia-Controls) ⭐ 469 | 🐛 0 | 🌐 C# | 📅 2026-09-24 - Free UI controls and beautiful themes, along with a Pro option for advanced controls.
@@ -334,7 +334,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 * [JamSoft.AvaloniaUI.Dialogs](https://github.com/jamsoft/JamSoft.AvaloniaUI.Dialogs) ⭐ 50 | 🐛 2 | 🌐 C# | 📅 2025-05-30 - An MVVM dialog service. Allows custom views, file dialogs, and includes a complete multistep Wizard Control.
 * [Tulesha.ToolBarControls.Avalonia](https://github.com/Tulesha/ToolBarControls.Avalonia) ⭐ 46 | 🐛 1 | 🌐 C# | 📅 2026-08-05 - A ToolBar and ToolBarTray controls for Avalonia.
 * [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) ⭐ 44 | 🐛 0 | 🌐 C# | 📅 2021-01-31 - A paginator control.
-* [DotNetCampus.InkCanvas](https://github.com/dotnet-campus/DotNetCampus.InkCanvas) ⭐ 41 | 🐛 1 | 🌐 C# | 📅 2026-11-13 - An InkCanvas control for drawing and handwriting on Avalonia.
+* [DotNetCampus.InkCanvas](https://github.com/dotnet-campus/DotNetCampus.InkCanvas) ⭐ 41 | 🐛 2 | 🌐 C# | 📅 2026-11-21 - An InkCanvas control for drawing and handwriting on Avalonia.
 * [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) ⭐ 41 | 🐛 10 | 🌐 C# | 📅 2020-03-29 - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
 * [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) ⭐ 40 | 🐛 0 | 🌐 C# | 📅 2022-04-17 - Avalonia WrapPanel with fixed number of items per line.
 * [Movere](https://github.com/jp2masa/Movere) ⭐ 37 | 🐛 0 | 🌐 C# | 📅 2026-08-30 - Movere is an implementation of managed dialogs for Avalonia.
@@ -415,7 +415,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ## Community
 
-* [Bug Reports](https://github.com/AvaloniaUI/Avalonia/issues) ⭐ 31,850 | 🐛 2,022 | 🌐 C# | 📅 2026-11-20 - GitHub Issues page.
+* [Bug Reports](https://github.com/AvaloniaUI/Avalonia/issues) ⭐ 31,853 | 🐛 2,018 | 🌐 C# | 📅 2026-11-21 - GitHub Issues page.
 * [Gitter Chat](https://gitter.im/AvaloniaUI/Avalonia) - Gitter Chat.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/avaloniaui) - Ask questions on Stack Overflow with the `avaloniaui` tag.
 
@@ -428,4 +428,4 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
